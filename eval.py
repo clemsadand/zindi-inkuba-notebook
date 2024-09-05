@@ -13,10 +13,9 @@ from typing import List
 
 def zindi_score(submission_file):
   df = pd.read_csv(submission_file)
-  evaluate.load("accuracy")
-  avg_score = evaluate(df)
+  avg_score = df["Log-Likelihood"].mean()
   size = df[df['Instruction']=='Model size']['Input Text']
-  score = (avg_score + (1-(size/232025))*avg_score)/2
+  score = (avg_score + (1-(size/232025))*avg_score)/2 #wat 
   return score
 
 def calculate_chrf(df):
