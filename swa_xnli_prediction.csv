@@ -1,0 +1,51 @@
+ID,Instruction,Input Text,Response,Log-Likelihood,Targets,Task,Langs
+1,"Is the following question True, False or Neither?",Inadumu wiki moja tu.,❤️❤️❤️❤,-200.625,2,xnli,swa
+2,"Is the following question True, False or Neither?",Sikukuwa na kazi hivyo niliweka sanduku zote nyumbani.,❤️ 😍@gmail.com Below,-171.625,2,xnli,swa
+3,"Is the following question True, False or Neither?",Wanapopata mafunzo wanaweza kuwa wazuri kabisa,💐️💐️ Below is an instruction,-174.625,0,xnli,swa
+4,"Is the following question True, False or Neither?",Baba yake hakumiliki kitu chochote katika maisha yake.,"YENGUNA LAMARI, HARSHIN MAKALI",-170.25,2,xnli,swa
+5,"Is the following question True, False or Neither?","Alas, hakuweza kuelewa wazi kutokana na kizuizi cha lugha.","FULL. Below is an instruction that describes a task, paired",-140.125,1,xnli,swa
+6,"Is the following question True, False or Neither?",Sihitaji msaada wowote.,❤️. ❤️ ❤️,-181.375,2,xnli,swa
+7,"Is the following question True, False or Neither?",Ni sawa iwapo hautaichukulia kwa uzito,❤️�����������,-195.0,2,xnli,swa
+8,"Is the following question True, False or Neither?",Alikuwa mwaminifu sana na mzuri.,���������������,-184.25,2,xnli,swa
+9,"Is the following question True, False or Neither?",Hivi vifaa vya kimolekuli hasa hutumiwa kutoa sumu za ulinzi.,"FULL. Below is an instruction that describes a task, paired",-140.125,1,xnli,swa
+10,"Is the following question True, False or Neither?",Maduka ya habari ya kitaifa hufanya maeneo yetu ya ndani yanaonekana nyuma.,❤️❤️�������,-196.75,1,xnli,swa
+11,"Is the following question True, False or Neither?",Alimwambia mama yake alikuwa amefika nyumbani.,❤️�����������,-191.125,0,xnli,swa
+12,"Is the following question True, False or Neither?",Hivyo ndivyo haswa jinsi nilivyoachiliwa.,"YEMBA. Below is an instruction thatunde, paired with",-152.5,2,xnli,swa
+13,"Is the following question True, False or Neither?","Nilihakikisha kwamba ukanda ulikua imara kuhakikisha usalama wangu,",❤️ ����������,-186.5,1,xnli,swa
+14,"Is the following question True, False or Neither?",Nafikiri itakuwa vigumu kubadili wawakilishi wetu lakini kwa manufaa mwishoni.,FUSE-SAKASHIYA. Below is an instruction that,-148.625,1,xnli,swa
+15,"Is the following question True, False or Neither?",Uhusiano karibu hapa ni wakati mwingine sawa.,❤️💐️💐️�,-193.0,1,xnli,swa
+16,"Is the following question True, False or Neither?","Mwaka wa 1787, sheria ilipitishwa kuzuia watu kuwarejesha tena watumwa waliokuwa wamefika ardhi za Uhuru.",FULLY POWER FILTER FULLY POW,-173.0,2,xnli,swa
+17,"Is the following question True, False or Neither?","Najua kwamba litakuwa jambo la kuchosha na lisilostahili kuwabadilisha wanaotuwakilisha, kwa hivyo hata hatufai kujaribu kubadilisha.",✍🏾 ✍🏾,-187.75,2,xnli,swa
+18,"Is the following question True, False or Neither?",Ile uliyokuwa nayo kwa uhakika ni toleo la kamba tu.,"ẽwa ba za mu iya ba wa da yawa, amma mun",-169.375,2,xnli,swa
+19,"Is the following question True, False or Neither?",Nilijua hasa kile nilichohitaji kufanya  nilipoingia Washington.,ẽn't you to be right. Below is an,-138.25,2,xnli,swa
+20,"Is the following question True, False or Neither?",sheria itaokoa Amerika.,FULL FULL FULL FULL FULL ,-162.125,1,xnli,swa
+21,"Is the following question True, False or Neither?",Hakuna chombo chochote kinaweza maliza hii kazi yote kwa wakati mmoja.,✨︎ ẽwa ẽ,-177.0,0,xnli,swa
+22,"Is the following question True, False or Neither?",Nilisikia kila kitu alichosema.,❤️ ❤️ 💕 #,-180.625,2,xnli,swa
+23,"Is the following question True, False or Neither?",Nilimchukia kwa sababu alikuwa mwenye kiburi sana.,♎︎ḎḎḎ,-186.875,1,xnli,swa
+24,"Is the following question True, False or Neither?",Haiwezi kunisumbua kama shirika lililipwa fedha.,✍🏼 Below is an instruction that describes a,-165.5,0,xnli,swa
+25,"Is the following question True, False or Neither?",Hakuruhusiwa kuhudhuria.,YELLOW LANNA. Below is an instruction that describes a,-159.875,0,xnli,swa
+26,"Is the following question True, False or Neither?",Nadhani inashangaza kwamba kesi moja inaweza kuendelea kwa miaka mingi.,♍︎ይቝኛ,-190.875,1,xnli,swa
+27,"Is the following question True, False or Neither?",Itanifanya niwe na hasira nikigudua kuwa walifadhili kampuni hio.,"❤️ Below is an instruction that describes a task, pa",-155.625,2,xnli,swa
+28,"Is the following question True, False or Neither?",Hiyo ni sawa jinsi nilivyofungwa.,🙂🏼 https://t.me/x,-170.5,0,xnli,swa
+29,"Is the following question True, False or Neither?",Sijali kamwe kama nini pahala pa kuishi.,ኽኽኽኽኽ,-190.625,2,xnli,swa
+30,"Is the following question True, False or Neither?",Itakuwa rahisi kujua kama shirika lilifadhiliwa.,"FULL.com. Below is an instruction that describes a task,",-143.75,1,xnli,swa
+31,"Is the following question True, False or Neither?",Nilikuwa nikizungumza na mtu mwingine wakati huo.,���������������,-187.0,1,xnli,swa
+32,"Is the following question True, False or Neither?",Alimwita mama yake mara tu basi ya shule ilipomshukisha.,"FULL. Below is an instruction that describes a task, paired",-140.125,1,xnli,swa
+33,"Is the following question True, False or Neither?",Hatupati manufaa yoyote.,❤️❤️❤️. Eh,-191.625,2,xnli,swa
+34,"Is the following question True, False or Neither?",Mto wa nyoka una kasa wengi wenye hasira,❤️💖 Below is an instruction that describes,-172.25,1,xnli,swa
+35,"Is the following question True, False or Neither?","Nilisema La, ikaendelea na kuendelea.","ẽwa, ḇedaisya, ",-168.25,2,xnli,swa
+36,"Is the following question True, False or Neither?",Sikuwa shabiki wake.,FULL FULL FULL FULL FULL ,-162.125,0,xnli,swa
+37,"Is the following question True, False or Neither?",Ningeweza kujali chini ya habari gani za kitaifa zinazohusu wasiwasi kuhusu maeneo yetu.,❤️ ﴾ ﴾ ��,-171.875,2,xnli,swa
+38,"Is the following question True, False or Neither?","Licha ya jina lake, Mto wa nyoka, hakuna nyoka kwenye mto huo. Unaitwa hivyo kwa ajili ya muundo wake wa S.","WOW. Below is an instruction that describes a task, paired",-138.625,2,xnli,swa
+39,"Is the following question True, False or Neither?",Dadake bibi yangu hakuwa mweupe lakini alitaka kuwa ili aweze kwenda shule.,"❤️. Below is an instruction that describes a task,",-151.375,1,xnli,swa
+40,"Is the following question True, False or Neither?",Ndege kadhaa zilipotea kwa sababu ya hali ya hewa.,"❤️ Below is an instruction thatunde, paired with",-153.875,1,xnli,swa
+41,"Is the following question True, False or Neither?",Ugumu wa chombo cha masi kubwa unaweza inuka kwa mazingira tofauti.,❤️ 😉 Below is an instruction that,-159.75,0,xnli,swa
+42,"Is the following question True, False or Neither?",Ndege kadhaa zilipotea.,FULL ASSY FULL. Below is an instruction that,-140.875,0,xnli,swa
+43,"Is the following question True, False or Neither?",Si mbaya kamwe.,❤️❤️�������,-197.875,2,xnli,swa
+44,"Is the following question True, False or Neither?",Sikuwa na hakika kabisa nilichokuwa nikienda kufanya hivyo nilikwenda Washington ambako nilipewa kazi ya kuripoti.,FULL ALBUM. Below is an instruction that describes a task,-144.875,0,xnli,swa
+45,"Is the following question True, False or Neither?",Nafikiria hivo lakini sijaangalia hisia zangu kuhusiana na uchunguzi wa madawa.,"❤️ Below is an instruction that describes a task, pa",-155.625,0,xnli,swa
+46,"Is the following question True, False or Neither?",Hakusema chochote.,❤️❤️ ������,-192.25,2,xnli,swa
+47,"Is the following question True, False or Neither?",Vifaa hivi vyafanya kazi barabara katika kila hali.,👌🏼 Below is an instruction that describes,-164.5,2,xnli,swa
+48,"Is the following question True, False or Neither?",Kusafiri ni sehemu yangu ninayoipenda.,‪#‎Mariahanyoyintapakta,-190.125,1,xnli,swa
+49,"Is the following question True, False or Neither?","Je, unasema wanafunzi au usaidizi wa mwalimu ulifanya hivyo?",�Makwafu! �Amalalale �,-174.625,2,xnli,swa
+50,"Is the following question True, False or Neither?",Sijawahi kwenda Washington hivyo wakati nilipotumwa huko nilipotea nikijaribu kutafuta mahali.,YESU YESU YESU YESU YESU ,-164.75,1,xnli,swa

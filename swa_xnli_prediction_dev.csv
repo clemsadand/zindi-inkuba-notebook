@@ -1,0 +1,5 @@
+ID,Instruction,Input Text,Response,Log-Likelihood,Targets,Task,Langs
+1,"Is the following question True, False or Neither?",Tunauhusiano bora zaidi mahali hapa.,"❤️. Below is an instruction that describes a task,",-151.375,2,xnli,swa
+2,"Is the following question True, False or Neither?",Kanuni haziwezi kuamua jinsi ya kutengeneza mkate kamili bila ya uamuzi wa binadamu.,✍🏾 ✍🏾,-187.75,1,xnli,swa
+3,"Is the following question True, False or Neither?",Baba yake alikuwa na mali nyingi.,"YEAR. Below is an instruction that describes a task, paired",-140.0,0,xnli,swa
+4,"Is the following question True, False or Neither?",Nimesikia sio nzuri.,♎︎ẽwa ����,-190.0,1,xnli,swa

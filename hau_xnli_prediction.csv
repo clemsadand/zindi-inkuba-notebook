@@ -1,0 +1,51 @@
+ID,Instruction,Input Text,Response,Log-Likelihood,Targets,Task,Langs
+1,"Is the following question True, False or Neither?",Ya kai tsawon sati ne kawai.,"ẽwa, ""Amma, da kuma ""Amma,",-145.625,2,xnli,hau
+2,"Is the following question True, False or Neither?",Bani da aikin yi dan haka kawai na ajjiye duk akwatunan a gida.,‪#‎zabi ﴿﴾ ,-171.875,2,xnli,hau
+3,"Is the following question True, False or Neither?",Idan suka samu horo suna da dadin sha'anin.,‪#‎Ayshnuratul-Musl,-182.5,0,xnli,hau
+4,"Is the following question True, False or Neither?",Baban sa bai taɓa mallakar komai ba a rayuwar sa.,"Ɗan Rago na Ibrahim, wanda ya kasance babban jami",-175.875,2,xnli,hau
+5,"Is the following question True, False or Neither?","Kash, ta kasa ganewa sosai saboda banbancin yare.",FULL ALBUM. Below is an instruction that describes a task,-144.875,1,xnli,hau
+6,"Is the following question True, False or Neither?",Bana buƙatar ko wanne irin taimakon ka.,���������������,-183.875,2,xnli,hau
+7,"Is the following question True, False or Neither?","Babu matsala, idan baka ɗauke shi da mahimmanci ba.",❤️ 💃 Below is an instruction that,-161.375,2,xnli,hau
+8,"Is the following question True, False or Neither?",Ya kasance mai gaskia da kirki.,Ɗaukaka da kuma Ɗaukaka. Below is,-165.375,2,xnli,hau
+9,"Is the following question True, False or Neither?",Waɗanne na'urorin kwayoyin halitta yawanci ana amfani dasu a fitar da guba iri-ir dan samun kariya.,"Ɗaukaka, Saka, A cikin wannan hanya.",-149.375,1,xnli,hau
+10,"Is the following question True, False or Neither?",Tashar labaran ƙasa yana bayar da unguwannin mu baya.,Ɗan Ra'ayoyi: Ɗan Ra'ayoyi:,-164.5,1,xnli,hau
+11,"Is the following question True, False or Neither?",Ya fadawa babar sa yaji gida.,"❤️ Below is an instruction that describes a task, pa",-155.625,0,xnli,hau
+12,"Is the following question True, False or Neither?",Ta haka dai na iya fidda maɓellin.,❤️❤️❤️❤,-200.5,2,xnli,hau
+13,"Is the following question True, False or Neither?","sai da na tabbatar da maɓallin a ɓalle yake sosai, dan na samu cikakken tsaro.",Ɗan wasan kwaikwayo ne da aka yi amfani da,-168.0,1,xnli,hau
+14,"Is the following question True, False or Neither?",Ina tunani zai zama ƙalubale a canja waɗanda ke wakiltar mu amma akwai nasara a ƙarshe. ,ኽ፽ይኛነ,-191.625,1,xnli,hau
+15,"Is the following question True, False or Neither?",Haɗin wurraren nan wani sa'in na da kyau.,Ɗamfashi da kuma Ɗan mutum. Below,-167.25,1,xnli,hau
+16,"Is the following question True, False or Neither?","A shekarar 1787, an sa doka da ta hana mutane dawo da bayi da suke cikin ƙasar yanci.",👍🏾 ������,-173.375,2,xnli,hau
+17,"Is the following question True, False or Neither?",Kawai nasan ba zai yi dadin ba kuma babu riba mu canja waɗanda ke wakiltar mu dan haka kar ma muyi ƙoƙarin canjin.,���������������,-184.375,2,xnli,hau
+18,"Is the following question True, False or Neither?",Wanda kake dashi tabbas masu igiyar su kaɗai ne sababbin zuwa.,"Ɗan Rago na farko, wanda ya kware w",-168.25,2,xnli,hau
+19,"Is the following question True, False or Neither?",Na san abinda nake bukatar yi yayin da na shiga Washington. ,አኛክኛኛ,-190.5,2,xnli,hau
+20,"Is the following question True, False or Neither?",Doka zata fanshi Amurka.,✨／／／／,-183.75,1,xnli,hau
+21,"Is the following question True, False or Neither?",Babu wani kayan aiki da zai warware wannan matsalar gaba ɗaya da kansa,"💔 Below is an instruction thatunde, paired with",-149.375,0,xnli,hau
+22,"Is the following question True, False or Neither?",Naji duka abinda ta faɗa.,☀️�����������,-183.625,2,xnli,hau
+23,"Is the following question True, False or Neither?",Na tsane shi saboda yana da girman kai.,♪✍︎ኽክ,-190.0,1,xnli,hau
+24,"Is the following question True, False or Neither?",Ba zan damu ba idan ɗaukan nauyin kuɗin da ake gudanar da ma'aikatar ake yi. ,"ẽwa, ba zan yi aiki ba, amma zan yi aiki",-163.75,0,xnli,hau
+25,"Is the following question True, False or Neither?",Ba'a bashi damar halarta ba.,Ɗauki na farko da na biyu da na uku da,-171.75,0,xnli,hau
+26,"Is the following question True, False or Neither?",Ina ga akwai shirme ace shari'a guda ɗaya zata iya ɗaukan shekaru.,‪#‎Tarihin Rayuwar Allah (T),-181.125,1,xnli,hau
+27,"Is the following question True, False or Neither?",Zan ji haushi idan na gane sun ɗaukin nauyin kuɗin da ake gudanar da ma'aikatar.,Ɗauki Ɗauki Ɗauki ,-173.125,2,xnli,hau
+28,"Is the following question True, False or Neither?",Haka daidai yadda na tamke shi.,❤️❤️�������,-197.875,0,xnli,hau
+29,"Is the following question True, False or Neither?",Gaskiya ban damu ba in ina da wajan zama.,"Ɗauki na farko, kuma na yi rubutu a kan",-153.75,2,xnli,hau
+30,"Is the following question True, False or Neither?",Abu ne mai sauki a gane ko daukan nauyin ma'aikatar aka yi. ,"ẽwa, da kuma �������",-174.5,1,xnli,hau
+31,"Is the following question True, False or Neither?",Ina wa wani daban magana ne a lokacin.,❤️😍💐️ �,-190.75,1,xnli,hau
+32,"Is the following question True, False or Neither?","Ya kira babar sa, sanda motar makarantar ta sauke shi.","ẽnna, ẽnna, �",-174.125,1,xnli,hau
+33,"Is the following question True, False or Neither?",Bama samun ko wanne irin amfanu.,‪#‎Ayayya ḇedar,-184.375,2,xnli,hau
+34,"Is the following question True, False or Neither?",Kogin maciji yana da kunkuru.,❤️❤️ ❤️.,-188.75,1,xnli,hau
+35,"Is the following question True, False or Neither?",Nace a'a amma yaci gaba da ja-in-ja.,✍🏼 Below is an instruction that describes a,-165.5,2,xnli,hau
+36,"Is the following question True, False or Neither?",Ni ba mai ra'ayi sa bane.,Ɗana'antuwa da kuma tunani. Below is,-173.25,0,xnli,hau
+37,"Is the following question True, False or Neither?",Ban damu ba da abinda labarun ƙasa ke nuni cike da damuwa kan unguwannin mu.,Ɗaya daga cikin abubuwan da aka tattauna a wannan labarin.,-158.5,2,xnli,hau
+38,"Is the following question True, False or Neither?","Duk da sunan sa, Kogin maciji a zahiri bai ɗauke da kowanne maciji, An sanya masa sunan saboda siffar sa ta S.","Ɗan’uwa, kuma ya yi aiki a matsayin mai gask",-175.0,2,xnli,hau
+39,"Is the following question True, False or Neither?",Yayar kakar ba fara bace amma ta so ta zama dan ta iya zuwa makaranta. ,አኛኛውቭ,-191.5,1,xnli,hau
+40,"Is the following question True, False or Neither?",Jirage sama da biyu suka ɓata saboda yanayin samaniya.,"Ɗan Rahama Sadau, wanda ya yi tsokaci da",-174.0,1,xnli,hau
+41,"Is the following question True, False or Neither?",Da yawan na'urorin kwayoyin halitta zasu iya bayyana wasa ƙa’idoji.,Ɗauki tsaro. Abubuwan da ake buƙata su,-171.625,0,xnli,hau
+42,"Is the following question True, False or Neither?",Sama da jirage biyu suka ɓata. ,"ẽwa, ẽwa, ẽ",-167.25,0,xnli,hau
+43,"Is the following question True, False or Neither?",Babu laifi.,❤️❤️❤️❤,-200.625,2,xnli,hau
+44,"Is the following question True, False or Neither?","Bani da tabbas kan me zanyi, dan haka naje Washington inda aka tura ni nayi naje.",���������������,-184.375,0,xnli,hau
+45,"Is the following question True, False or Neither?","Ina tunani haka, amma ban sami nutsuwa a raina ba a kan maganar gwajin kwaya.",♍︎ 👍︎ ,-181.5,0,xnli,hau
+46,"Is the following question True, False or Neither?",Bai ce ko kalma ɗaya ba.,Ɗamfani da ke cikin wannan shafi. Below,-163.375,2,xnli,hau
+47,"Is the following question True, False or Neither?",Waɗannan kayan aikin suna aiki a kowanne irin yanayi.,Ɗamfani da kuma tsaro na tsaro na,-164.5,2,xnli,hau
+48,"Is the following question True, False or Neither?",Tafiye-tafiye shine fannin da nafi so.,"Ɗan Rahama Sadau, wanda aka fi sani da sunana",-181.0,1,xnli,hau
+49,"Is the following question True, False or Neither?",Kana maganar dalibai ne suka yi ko mai taimakon malamai ne suka yi?,"Ɗan Rago na biyu (a) ya rubuta: ""Ya",-169.25,2,xnli,hau
+50,"Is the following question True, False or Neither?","Ban taɓa zuwa Washington ba, dan haka lokacin da ka tura ni wajan, Sai dana ɓata ina ƙoƙarin gano wajan.",Ɗaya daga cikin abubuwan da za'a iya yi shi,-170.125,1,xnli,hau

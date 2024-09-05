@@ -1,0 +1,5 @@
+ID,Instruction,Input Text,Response,Log-Likelihood,Targets,Task,Langs
+1,"Is the following question True, False or Neither?",Muna da haɗi mafi kyau a wajajen nan.,✍👏👏👇,-190.875,2,xnli,hau
+2,"Is the following question True, False or Neither?",Babu wani tsarin dokokin da zai yanke yadda zaayi cikakken sanwic ba tare da mutum ba.,Ɗaya daga cikin waɗannan sharuɗɗan da aka,-177.625,1,xnli,hau
+3,"Is the following question True, False or Neither?",Baban sa yana da kadarori da yawa,"Ɗan Rago na biyu, Ɗa, da kuma",-166.5,0,xnli,hau
+4,"Is the following question True, False or Neither?",Naji ance babu dadi.,"Ɗauki sunana, ďinna, ďaya",-161.25,1,xnli,hau
