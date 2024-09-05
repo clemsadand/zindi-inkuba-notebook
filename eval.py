@@ -11,11 +11,12 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from typing import List
 
+PARAM_SIZE = 421939200.0
 def zindi_score(submission_file):
   df = pd.read_csv(submission_file)
-  avg_score = df["Log-Likelihood"].mean()
-  size = df[df['Instruction']=='Model size']['Input Text']
-  score = (avg_score + (1-(size/232025))*avg_score)/2 #wat 
+  avg_score = evaluate_zindi(df)
+  size = df[df['Instruction']=='Model size']['Input Text'].astype(int)
+  score = (avg_score + (1-(size/PARAM_SIZE))*avg_score)/2 #wat 
   return score
 
 def calculate_chrf(df):
@@ -103,7 +104,7 @@ def do_eval_compute(df, labels):
   given the labels for the task, the logliklihoods and
   targets
   """
-  log_likelihoods = df['Log-Likelihood'].apply(lambda x: float(x).strip('[]').split(','))
+  log_likelihoods = df['Log-Likelihood'].astype(float)
   ground_truths = df['Targets']
   predictions = loglikelihoods_to_predictions(log_likelihoods, labels)
   accuracy, f1 = compute_f1_and_accuracy(predictions, ground_truths, labels)
@@ -118,34 +119,34 @@ def evaluate_zindi(df):
   First step is to separate df such that each task has its own accuracy calc
   """
   scores = []
-
-  df_temp = df[df['Task'] == 'sent'& df['Langs']=='hausa']
+  df_temp = df[(df['Task'] == 'sentiment') & (df['Langs'] == 'hausa')]
   labels = ["Kyakkyawa","Tsaka-tsaki","Korau"]
   res = do_eval_compute(df_temp, labels)
   scores.append(res)
   print("Score for Sentiment Hausa:", res)
 
-  df_temp = df[df['Task'] == 'sent'& df['Langs']=='swa']
+  df_temp = df[(df['Task'] == 'sentiment') & (df['Langs'] == 'swahili')]
   labels=["Chanya","Wastani","Hasi"]
   res = do_eval_compute(df_temp, labels)
   scores.append(res)
   print("Score for Sentiment Swahili:", res)
 
   labels = ["0","1","2"]
-  df_temp = df[df['Task'] == 'xnli'& df['Langs']=='hau']
+  df_temp = df[(df['Task'] == 'xnli') & (df['Langs'] == 'hau')]  
   res = do_eval_compute(df_temp, labels)
   scores.append(res)
   print("Score for AfriXnli Hausa:", res)
 
-  df_temp = df[df['Task'] == 'xnli'& df['Langs']=='swa']
+  df_temp = df[(df['Task'] == 'xnli') & (df['Langs']=='swa')]
   res = do_eval_compute(df_temp, labels)
   scores.append(res)
   print("Score for AfriXnli Swahili:", res)
 
-  df_temp = df[df['Task'] == 'mt'& df['Langs']=='swa']
+  df_temp = df[df['Task'] == 'mmt']
   res = calculate_chrf(df_temp)
-  scores.append(res['score'])
+  print("Score for MMT:", res)
+  scores.append(res['score']/100.0)
 
-  avg_score = mean(int(n) for n in scores if n)
+  avg_score = mean(float(n) for n in scores if not np.isnan(float(n)))
   print("Average performance score accross tasks and langs: ", avg_score)
   return avg_score
