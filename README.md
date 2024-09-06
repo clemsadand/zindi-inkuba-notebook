@@ -11,8 +11,8 @@ This notebook if for Zindi Admin. It ncludes a code snippet to combine submissio
 [Lelapa AI Zindi Score - Zindi team.ipynb](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/Lelapa_AI_Zindi_Score_Zindi_team.ipynb) 
 
 ## Helper Functions that both Zindi team and Participants need access to:
-[eval.py] (https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/eval.py) -> this file contains all the evaluation functions
-[model_function.py] (https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/model_function.py) -> this file contains functions for model inference
+[eval.py](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/eval.py) -> this file contains all the evaluation functions
+[model_function.py](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/model_function.py) -> this file contains functions for model inference
 
 ## Helper files that only Zindi Admin would utilise
 [zindi_scorer.py](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/zindi_scorer.py) -> contains submission evaluation functions
