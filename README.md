@@ -4,7 +4,7 @@
 This notebook is one that can be shared with participants.  
 [Lelapa AI Zindi Notebook - Participants.ipynb](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/Lelapa_AI_Zindi_Notebook_Participants.ipynb)
 
-**Lelapa AI Zindi Score - Zindi team **
+**Lelapa AI Zindi Score - Zindi team.ipynb**
 
 This notebook if for Zindi Admin. It includes a code snippet at the end to combine submission file with groundtruth to compute Zindi score, It does also have the rest of the partcipant code for generating submission files, note that these are not necessary to do the scoring
 [Lelapa AI Zindi Score - Zindi team.ipynb](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/Lelapa_AI_Zindi_Score_Zindi_team.ipynb) 
