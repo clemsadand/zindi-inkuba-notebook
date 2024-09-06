@@ -1,11 +1,9 @@
-#This repo contains all th enecessary files for the Zindi Competition
-
-
+# This repo contains all th enecessary files for the Zindi Competition
 
 ## Lelapa AI Zindi Notebook - Participants.ipynb 
 This notebook is one that can be shared with participants.  
 
-[https://colab.research.google.com/drive/19wIzsBFiYdnFz1rIoKhsrrTGem8mZzbc?usp=sharing](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/Lelapa_AI_Zindi_Notebook_Participants.ipynb)
+[Lelapa AI Zindi Notebook - Participants.ipynb](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/Lelapa_AI_Zindi_Notebook_Participants.ipynb)
 
 ##Lelapa AI Zindi Score - Zindi team 
 This notebook if for Zindi Admin. It ncludes a code snippet to combine submission file with groundtruth to compute Zindi score
