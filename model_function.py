@@ -7,6 +7,9 @@ import torch
 
 # Function to load the model for text generation
 def load_model(model_name):
+    """
+    A function to load the model, it allows for GPU to be used if it is available
+    """
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
         return_dict=True,
@@ -39,6 +42,22 @@ def main(
     length_penalty=1,
     **kwargs
 ):
+    """
+    This function runs inference for the model. WHat is important about this function is ensuring that outputs are recoded as the logliklihood. 
+    Which is important for evaluation
+    
+    Inputs
+    model: The model that is used to generate responses
+    task_instruction: if a custom instruction is to be used for inference it is specified here
+    sample_size: change this to determine how many samples to generate results for, useful for testing
+    custom_instruct: If you want to use an instruction that is different to what is currently available in the dataset
+    BASE_PROMPT: change this to change the base prompt
+    max_new_tokens: this is the number of tokens that are generated, for sentiment and XNLI we expect one word answers tso the number of tokens can be smaller, for translation though the default is 100
+    
+    Outputs
+    CSV file with task descriptions and inference logliklihood outputs
+    
+    """
     model.eval()
     with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
