@@ -22,9 +22,10 @@ def get_zindi_score(submission_file):
     This function pulls the test dataset from the huggingface server, merges the targets back onto the dataset and 
     runs the same evaluation function on a submission file to determine the Zindi score
     """
-    data = pd.read_csv(submission_file)
+    data = pd.read_csv(submission_file)  #function takes in csv so this is csv 
     merged_submission = pd.concat([res, data], axis=1)
-    merged_submission.to_csv("submission_to_score.csv") #function takes in csv so this is csv 
+    merged_submission = merged_submission.rename(columns = {'targets':'Targets'}) 
+    merged_submission.to_csv("submission_to_score.csv")
     zindi_score = eval.zindi_score("submission_to_score.csv")
     return (zindi_score)
 
