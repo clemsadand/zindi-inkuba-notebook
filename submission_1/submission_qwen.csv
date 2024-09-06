@@ -1,0 +1,489 @@
+ID,Instruction,Input Text,Response,Log-Likelihood,Targets,Task,Langs
+1.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.","@user @user wasika zuwa ga baba buhari, ya fama da masu fuska biyu da suke tare da kai. na tabbata ba'a sanar da kai akan matsalar wahalar rayuwa da talakawan ka suke fuskanta. a takaice dai ina mai baka shawara kayi batan sawu kaje wani yanki kaga abinda ake ciki. a kasar ka. na gode👏","1. ""The instructions are clear and concise.""
+2. The user provided",-188.57388305664065,,sentiment,hausa
+2.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user uhum 🤔! tau allah shi sauwaka,1,-30.896568298339844,,sentiment,hausa
+3.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.","@user allah ya kawo mana mafuta a wannan runtsi da muke ciki, albarkacin wannan watan mai alfarma 😰",1,-30.896568298339844,,sentiment,hausa
+4.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user nafi kowa dacewa da wannan mukami 🙏,1) I'm sorry to hear about your loss. Please know that you,-186.40744018554688,,sentiment,hausa
+5.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user madarid zata mai da martani a ingila😎,1) I'm sorry to hear about your loss and appreciate you sharing this,-186.31661987304688,,sentiment,hausa
+6.0,"Gano ra'ayin da aka bayyana a cikin wannan rubutu. Bin waɗannan jagororin, kyakkyawa yana na rubutu na nufin kyakkyawan tunani, ɗabi'a, da motsin rai. Korau na nuna rubutu na nufin mummunan tunani ko motsin rai. Tsaka-tsaki na nuna rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user shafa ko baban gida mai gurmi 😂😂,1) Aww! That's hilarious and funny! I can't stop,-212.40853881835935,,sentiment,hausa
+7.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",muna godiya baba allah ya yaye manaa wannan annoba baki daya,1. I understand your message and will try to complete it accurately as possible,-179.35494995117188,,sentiment,hausa
+8.0,"Gano ra'ayin da aka bayyana a cikin wannan rubutu. Bin waɗannan jagororin, kyakkyawa yana na rubutu na nufin kyakkyawan tunani, ɗabi'a, da motsin rai. Korau na nuna rubutu na nufin mummunan tunani ko motsin rai. Tsaka-tsaki na nuna rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user karshen munafurci yakare a siyasa 🤯🤯🤯,1) The given text seems to be written in Arabic language and contains several,-160.7901611328125,,sentiment,hausa
+9.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user nabi kunya da gudu b takalmin 🏃‍♂️,"1. What does ""takan"" mean in this conversation?
+
+2.",-205.62399291992188,,sentiment,hausa
+10.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user nabi photo d gudu👊🙄✊,1️⃣ What do you want me to say? I can,-214.20767211914065,,sentiment,hausa
+11.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user 😂🤣😄shegiya weed bbc ashe kuma kukan taba,"1. What does ""Tantance ra'ayin"" mean in",-228.00997924804688,,sentiment,hausa
+12.0,"Gano ra'ayin da aka bayyana a cikin wannan rubutu. Bin waɗannan jagororin, kyakkyawa yana na rubutu na nufin kyakkyawan tunani, ɗabi'a, da motsin rai. Korau na nuna rubutu na nufin mummunan tunani ko motsin rai. Tsaka-tsaki na nuna rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user bafa zamu fasa zuwa masallaci ba.... allah yatsare mana imanin mu 👏👏👏,ұқсас көрсетілген сәтт,-287.968505859375,,sentiment,hausa
+13.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",yaushe aka fara wannan cakwakiyar banida lbr, The instructions seem to be in Aramaic and are written as a poem,-181.43795776367188,,sentiment,hausa
+14.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.","@user allah duk wanda yake da hannu, allah kai masa abin daya dace dashi.....😭",1,-30.896568298339844,,sentiment,hausa
+15.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user allah yaga zuciyata nayi niyyar zuwa wannan shekarar amma sun toshe mana hanya 😥😥 allah yasa in samu me biyamin wata shekarar amen ina ruwa yasin dan gamu gareka,10,-49.50265502929688,,sentiment,hausa
+16.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user hmmmmnn! malam talaka dan'uwana muna ruwa kusa da kada😥,1,-30.896568298339844,,sentiment,hausa
+17.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",kada fa ya tura a kashe shi shima,1. The first step in this process would be to read and understand what,-167.07907104492188,,sentiment,hausa
+18.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user kin dawo kainan 🤔,1) The user wants to know what happens when you give someone else's,-189.33883666992188,,sentiment,hausa
+19.0,"Gano ra'ayin da aka bayyana a cikin wannan rubutu. Bin waɗannan jagororin, kyakkyawa yana na rubutu na nufin kyakkyawan tunani, ɗabi'a, da motsin rai. Korau na nuna rubutu na nufin mummunan tunani ko motsin rai. Tsaka-tsaki na nuna rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.","@user @user wallahi tsohon nan ya raina yan' najeriya. shekara 5, amma hakuri ya ke bayarwa. kamar dole🙄",10,-49.56053924560547,,sentiment,hausa
+20.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user allah ya tsinema gwamnatin mtsww 🚶🚶🚶,10,-49.5606689453125,,sentiment,hausa
+21.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user dubawa za kuy😃😃,1. Thank you for providing more context! It seems like there are multiple,-178.50973510742188,,sentiment,hausa
+22.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user @user kaji dariyar mugu # covid19 🤣🤣🤣🤣??,40,-50.3184814453125,,sentiment,hausa
+23.0,"Gano ra'ayin da aka bayyana a cikin wannan rubutu. Bin waɗannan jagororin, kyakkyawa yana na rubutu na nufin kyakkyawan tunani, ɗabi'a, da motsin rai. Korau na nuna rubutu na nufin mummunan tunani ko motsin rai. Tsaka-tsaki na nuna rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user @user ina alfahari da kasata 🇳🇬 saboda bani da wata ƙasa da tafita. fatana shine allah ya kara daukaka kasata 🇳🇬,1234567890,-174.11265563964844,,sentiment,hausa
+24.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",wannan tsohon ba zai iya ba gwamnatin duk yan arewa ne cike da ita amma marasa amfani azzaluman ciki sun fi na kirkin ya rahmani raheem ka yafe mana ka ji kukan mu,1. The first part of the verse talks about how God has created everything,-193.02993774414065,,sentiment,hausa
+25.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user allah kasa naga alkhairi 🤕🤕🤲,1️⃣ Thank you for your feedback! It sounds like you,-212.97787475585935,,sentiment,hausa
+26.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user @user ya kamata a shigar da bbc kara court dan har yanzu sarki sunusi suke cewaa 😂😂😂,"1. What do you want to know about this story?
+2. Can",-190.60366821289065,,sentiment,hausa
+27.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user dama shi wanan shugaban yayi magana yace idan yaci zabe zai kori baki gaba daya acikin kasar shi 🤔🤔🤔,你好！我理解你的意思。这是关于一个故事的情节，其中,-294.4490661621094,,sentiment,hausa
+28.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",“@user: .@user da jonathan sun gana kan zaben 2015 http://t.co/hqxpjf9zjy http://t.co/tcpvkehiuv” photo speak don't go yet 😂😂😂,1️⃣ @user thank you for sharing your experience of using,-223.3568420410156,,sentiment,hausa
+29.0,"Gano ra'ayin da aka bayyana a cikin wannan rubutu. Bin waɗannan jagororin, kyakkyawa yana na rubutu na nufin kyakkyawan tunani, ɗabi'a, da motsin rai. Korau na nuna rubutu na nufin mummunan tunani ko motsin rai. Tsaka-tsaki na nuna rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user wannan ai wankan buzaye me🤣😂 but is nice,1️⃣ Thank you for sharing your funny moment! I'm,-225.18881225585935,,sentiment,hausa
+30.0,"Gano ra'ayin da aka bayyana a cikin wannan rubutu. Bin waɗannan jagororin, kyakkyawa yana na rubutu na nufin kyakkyawan tunani, ɗabi'a, da motsin rai. Korau na nuna rubutu na nufin mummunan tunani ko motsin rai. Tsaka-tsaki na nuna rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user gaskiyane 👌👌 hakane kuwa 🤔🤔,"1) What does ""ra"" mean in Hebrew? 2) How",-211.74508666992188,,sentiment,hausa
+31.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user aikinku yy kyau 😊,0,-31.85352325439453,,sentiment,hausa
+32.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user 🤔 ai shiga xakuje kuyi daganan ne xaku san dalilin da yasa akeyimata wanan kirarin amma mu yanxu duk amsar da xamu baku baxaku gamsu ba,1) The given text seems to be in Arabic language and it talks about,-174.01480102539062,,sentiment,hausa
+33.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",surutai da gutsuri tsoma ba za su kai kasar mu ko ina ba mu riki abin da allah ya zaba mana mu bishi da addua ta alkhairi don ci gaban kasar mu,2,-32.340538024902344,,sentiment,hausa
+34.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user @user lokacin sane watarana sai labari kuma mutum yanaso idan yamutu ace allah yajikansa da rahama mutane suna tuna aikin ka me kyu da mara kyu da shine xasu yabeka ko aksin haka allah yasa mugane ameen🙏,"1) I think you are right about the correct answer being ""Yes"".",-178.80447387695312,,sentiment,hausa
+35.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user kema naki yananan fitowa😂😋😋,1️⃣ I understand what you want me to do - help,-214.13070678710935,,sentiment,hausa
+36.0,"Gano ra'ayin da aka bayyana a cikin wannan rubutu. Bin waɗannan jagororin, kyakkyawa yana na rubutu na nufin kyakkyawan tunani, ɗabi'a, da motsin rai. Korau na nuna rubutu na nufin mummunan tunani ko motsin rai. Tsaka-tsaki na nuna rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.","@user allah ya kiya mu dai, zanyi following duk wand yayi following dina nayi alkawari wlhi🤝","1) What does this mean? 
+
+This verse appears to be part of",-207.72213745117188,,sentiment,hausa
+37.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.","@user aradu chefanan wannan watan matata ce zatai , i love u maman hauwa taaa😂✌️",10/10,-89.87857055664062,,sentiment,hausa
+38.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user @user hmm dama ai shi babban mutum mai sauqin kai baicika son ace shi wanine ba allah👏 yakara daukaka,41025,-93.16038513183594,,sentiment,hausa
+39.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user inka dauresu kaikuma kayanke hukuncin zakayita zama a kujerar gwamnan kaduna dan'allah🤲,"1. What do you want me to say?
+2. Do you have",-172.37789916992188,,sentiment,hausa
+40.0,"Gano ra'ayin da aka bayyana a cikin wannan rubutu. Bin waɗannan jagororin, kyakkyawa yana na rubutu na nufin kyakkyawan tunani, ɗabi'a, da motsin rai. Korau na nuna rubutu na nufin mummunan tunani ko motsin rai. Tsaka-tsaki na nuna rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user allah yasa hakane mafi alkhairy ga wnnan sahri’a👏👏,1️⃣ Allah has given us freedom to choose what we want,-226.44125366210935,,sentiment,hausa
+41.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user godiya nake nima 🙏🤗,1234567890,-174.103759765625,,sentiment,hausa
+42.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user malam ali saide an bud'e kasuwannin a yau🤔,"1️⃣ Yes, I can understand your message in English as",-208.64193725585935,,sentiment,hausa
+43.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.","@user mai dokar bacci, ya 6ige da likimo😂🤣",60,-52.3135986328125,,sentiment,hausa
+44.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user to🥺allah yasa mu cika da imani,1️⃣ I understand your concern about being unable to pray during,-232.69467163085935,,sentiment,hausa
+45.0,"Da fatan za a gano ra'ayin da ke cikin wannan rubutu bisa ga jagorori masu zuwa: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user kuma an bamu wutar ta wannan yawan adadin kudin kua 🙄,1) I'm sorry to hear about your experience. It sounds like you,-181.68649291992188,,sentiment,hausa
+46.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",wallahi na kasa tashi ma tunnjiya,"1) The first line of the text means ""The sun rises in the",-206.08200073242188,,sentiment,hausa
+47.0,"Gano ra'ayin da aka bayyana a cikin wannan rubutu. Bin waɗannan jagororin, kyakkyawa yana na rubutu na nufin kyakkyawan tunani, ɗabi'a, da motsin rai. Korau na nuna rubutu na nufin mummunan tunani ko motsin rai. Tsaka-tsaki na nuna rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user saura yan twitter zaa fara kama masu tweet din da basu so😆😆😆 this kano people. koda me kazo anfika,1,-30.896568298339844,,sentiment,hausa
+48.0,"Za ka iya tantance yanayin wannan rubutu? Bi waɗannan jagororin sharhi: Kyakkyawa: idan rubutu na nuna kyakkyawan tunani, hali, da yanayi. Korau: idan rubutu yana nuna mummunar tunani ko yanayi. Neutral: idan rubutu baya nuna kyakkyawar magana ko mara kyau kai tsaye ko a kaikaice.",@user @user 😂😂😂😂 allah yaji ƙanku da rahama amin,0,-31.798912048339844,,sentiment,hausa
+49.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",@user to wai wadnn sune wadnda aka killace kenn...🤔🤔🤔 tab latsi se naija...,"1) What do you want me to do?
+2) Can I help",-178.64369201660156,,sentiment,hausa
+50.0,"Tantance ra’ayin wannan rubutu kuma a rarraba rubutun zuwa ɗaya daga cikin waɗannan rukunoni. Kyakkyawa: idan rubutu yana nuna kyakkyawan tunani, hali, da yanayin motsin rai. Korau: idan rubutu yana nuna mummunar tunani ko motsin rai. Tsaka-tsaki: idan rubutu baya nufin magana mai kyau ko mara kyau kai tsaye ko a kaikaice.",amman an cigaba da yankasu a burkina,10,-49.5606689453125,,sentiment,hausa
+1.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",kesi namba 1122018 inayowakabili viongozi wakuu wa na baadhi ya wabunge katika mahakama ya kisutu dar leo imea,34567,-96.37181091308594,,sentiment,swahili
+2.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   kwa nini tusipande mazao ya malisho kwa ajili ya mifugo badala ya kutegemea uoto wa asili tu tuambie mahi," This phrase means ""To use your imagination to create stories about what could have",-189.08120727539065,,sentiment,swahili
+3.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",je unadhani nani kuondoka na ushindi ndani ya hungarian gp usikose kutazama mashindano haya leo live kuanzia saa 10 jioni kupitia ss2," ""I would like to know what kind of music you are listening to and",-188.2176818847656,,sentiment,swahili
+4.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   vile raisi wa wapwa akichunguza baraza lake la mawaziri cc waziri mkuu ,1) I will first identify what kind of information you are looking for in,-178.73532104492188,,sentiment,swahili
+5.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",jenga bet  getafe real madrid  timu hizi zimeshinda mabao 30 kwenye mechi zao zilizopita laliga mechi yao itakuwa na mabao mangapi bashiri idadi ya magoli na masoko mengine hadi 6kwenye mechi hii kwa jenga bet ushinde,"1) I am not sure what you mean by ""mabao""",-199.26431274414065,,sentiment,swahili
+6.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",tafadhali tujulishe tatizo lako kwa msaada zaidijb,1) I would like to know what kind of information you are looking for,-178.60055541992188,,sentiment,swahili
+7.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",baadhi ya wapwa wamepata mchongo leo little ride na smile yes kila mtu anaeza kuwa influencer ni simple dowload app ya,10,-49.50265502929688,,sentiment,swahili
+8.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   zabuni za ujenzi wa hoteli ya nyota 4 na maeneo ya biashara kwenye jengo la 3 la abiria jnia jniatbiii jijini dar es sala,1. I am sorry to hear about your experience at this hotel. Can,-181.90591430664065,,sentiment,swahili
+9.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",uhuru michezomanchester city mabingwa kombe la ligi,1) I think you're referring to Manchester City's performance in their last,-190.33102416992188,,sentiment,swahili
+10.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",bin bhoi pole kwa usumbufu unapojitokeza tafadhali endelea kufuatilia ukurasa wetu kwa taarifa zaidi,10/25,-93.31199645996094,,sentiment,swahili
+11.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",tanzania na misri zimetia saini mkataba wa ujenzi wa kuzalisha umeme katika bonde la mto rufiji na kushuhudiwa na rais john pombe magufuli na waziri mkuu wa misri mostafa madbouly soma zaidi gtgt,"1. I am not sure what you meant by ""Tanzania and",-198.65347290039065,,sentiment,swahili
+12.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",naibu waziri wa mambo ya nje na ushirikiano wa afrika mashariki dkt damas ndumbaro na katibu mkuu wizara ya mambo ya nje na ushirikiano wa afrika mashariki dkt faraji kasidi mnyepe wamekutana na kufanya mazungumzo na kaimu balozi wa marekani bi inmi patterson,1) Mwanamme ni wakati ambaye wanachama,-274.8626403808594,,sentiment,swahili
+13.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",kama upo sogea eneo walipo wajasiriamali wa upate bidhaa na huduma bora kutoka kwa vija,1. I am sorry for any inconvenience caused during this time of transition to,-196.64028930664065,,sentiment,swahili
+14.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   unamuacha lini huyu sasaaaaa kuna watu huko wanaitwa beach wanasubiri coco muwe kimoja achan,1) The first part of this sentence seems to be asking for someone's,-179.40347290039062,,sentiment,swahili
+15.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",spika wa bunge ametoa siku nne hadi ijumaa kwa serikali kuwasilisha taarifa ya kina kuhusu mauaji ya watoto yanayoendelea mkoani njombe waziri jenista mhagama aliliomba bunge kutoa muda huo kwani serikali inahitaji muda kutoa taarifa kamili itakayoelezea pia hatua walizochukua,"1) ""Mwaka 2023"" - This year",-209.61947631835935,,sentiment,swahili
+16.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",jiunge na huduma za kibenki kupitia simu yako ya kiganjani ili upate ujumbe wa sms wa miamala ya akaunti yako na kuwa karibu na akaunti yako popote ulipo,1-20,-71.52255249023438,,sentiment,swahili
+17.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",wanahabari wa na hawa bihoga wa wakiwa wameketi pamoja na mkurugenzi mkuu,10,-49.56053924560547,,sentiment,swahili
+18.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",miongoni mwa mtihani mkubwa sana kwa vijana ni ibada kama upo kwenye hili kundi na bado unajitahidi ibada zisikupite hon,1) I understand your concern about safety and security in public places during this,-199.51882934570312,,sentiment,swahili
+19.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",ikiwa hawa wengine wenye magonjwa haya adimu wameweza kufanikiwa na kujitengenezea umaarufu kwa nini isiwe hivyo kwa,1) I would like to know how you feel about this situation because it,-178.01821899414062,,sentiment,swahili
+20.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",22 kwa wakati huu unaweza kupata zawadi ya kucheza jackpot moja bure kwa kushare bango kwa kupitia tovuti yetu bofya kushare bango la jackpot na kupata tiketi ya kucheza jackpot bure pa,18,-48.83102416992188,,sentiment,swahili
+21.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",ahsante kwa taarifa tutaziwasilisha idara husikank,1) I am not sure what you are asking for or how to complete,-175.01266479492188,,sentiment,swahili
+22.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",tumekazana na uchimbaji tu tunasheherekea tunapochimba vito vikubwa lakini je kwa upande wa mazingira tumewekaje tunaimali,"1) Mwanzoni wakati ni naye, sisi",-250.2879943847656,,sentiment,swahili
+23.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   utofauti wa mpangilio na mandhari ya makazi toka angani kwa maeneo yanayopakana jijini dar es salaam kushoto ni sehemu,1. I will start by explaining what the instructions are asking me to do,-181.95864868164065,,sentiment,swahili
+24.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",pole sana kwa usumbufu tunaomba namba yako tushughulikie hili tatizo,10,-49.5606689453125,,sentiment,swahili
+25.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",sheria inawatambua zaidi smallscale miners ambao ni wengi kuliko artisanal miners hili tunajaribu kulipigia chapuo serikali iliangalie kwa kushirikiana na wadau dr josephat  mtafiti,1) Small-scale and artisanal mining operations are common among African countries due,-223.2535095214844,,sentiment,swahili
+26.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   je unamiliki gari namba d uko na dharura kifedha karibu platinum credit tunatoa huduma za mkopo wa pesa kwa,2019-12-31,-160.499267578125,,sentiment,swahili
+27.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   siku ya huduma kwa walevi leo mapema boss kalewa local beer ni 2000 tu,2000,-79.18183898925781,,sentiment,swahili
+28.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",bondiathomas mashali ameuawa usiku wa kuamkia leo kimara dsmviongozi wa ngumi anthony rutapst na chaurembo palasa tpbc wamethibitisha,10,-49.50265502929688,,sentiment,swahili
+29.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",asante sana clouds media,10/25/2023,-167.804931640625,,sentiment,swahili
+30.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   zinakufa sababu most of them wanawekeza kwenye biashara ambazo hawana uelewa nazo na wanawekeza kwenye bias,10,-49.50265502929688,,sentiment,swahili
+31.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",daktari wa manesi usimlipe hela hiyo mimi nina mmudu vizuri sana kwanza hatutufanyia kishikaji tu,1234567890,-174.11279296875,,sentiment,swahili
+32.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   sababu inayofanya mtu ajiumize au kuumiza watu wengine ni ukosefu wa maarifa unawareness,"1. I understand what you mean by ""tambua"" and how",-188.76119995117188,,sentiment,swahili
+33.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",je wajua kuwa unaweza kuipoteza account yako ya twitter kwa kuandika maudhui yenye lengo la kuashiria kujiua wewe mwenyewe endapo utatumia lugha ya kiingereza bila kusahau maudhui yenye hakimiliki copyright mfano video baadhi ya nyimbo hata picha pia,1) Mimi ni nchi wa Twitter ambao wanachama kw,-251.55386352539065,,sentiment,swahili
+34.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   hadi kufikia aprili 2019 serikali imechukua hatua mbalimbali za kuongeza ukwasi kwenye uchumi il,4,-31.62772750854492,,sentiment,swahili
+35.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",hakuna mwanaume aliyechelewa maisha wala hakuna mwanaume aliyewahi maisha kila mmoja ana nafasi ya kuwa bora cha msingi ni kupeana heshima na kupeana moyo,1) I understand your concern about the impact of social media on mental health,-187.41665649414065,,sentiment,swahili
+36.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",kashfa dhidi ya kanisa katoliki duniani papa amfuta kazi padri kutoka nchini chile soma zaidi gtgt,1. What are some of the challenges faced by people living in rural areas,-190.59194946289065,,sentiment,swahili
+37.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   vibubu vipo dukani 10000 whatsapp 076672727 join our whatsapp group for more tuko mwenge,5,-32.082725524902344,,sentiment,swahili
+38.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",mimi sasa hivi nafikisha mwaka wa pili sijui ladha ya soda wala juice ya kopo ambayo sio fresh,"1) Moyo juu yako ni kuongezeka? 
+",-263.05108642578125,,sentiment,swahili
+39.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",muheshimiwa kwa majina naitwa rahma juma salumu mwanafunzi wa shule kuu ya uandishi wa habari  udsmsjmc n,1234567890,-174.11265563964844,,sentiment,swahili
+40.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",   ukiwa huna hela unakula mawanga ya bei rahisi machapati mavitumbua maugali wali wa 200 nk lazima upate kiriba tumbo,1) I have been studying for two months and my grades are improving every,-197.10952758789065,,sentiment,swahili
+41.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",habari ahsante kwa uvumilivu wako pole sana kwa changamoto uliyoipata huduma ya internet sasa imerejea tunaendelea kuomba radhi kwa usumbufu uliopatall,10%,-62.03605651855469,,sentiment,swahili
+42.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",baada ya ushindi wa epl wiki iliyoisha man city wanakutana na oxford united katika  je vijana guardiola wataweza kuchomoka na kutinga nusu fainali shuhudia mechi hii kesho saa 145 usiku kupitia ss5 kwa kulipia kifurushi cha compact plus 84000,2,-32.30350875854492,,sentiment,swahili
+43.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",hakuna mtandao wa kijamii ambao ni salama kwa sasa walipoanzisha facebook twitter nakadhalika ikiwemo mtandao wa l,"1. ""I would like to know more about your company and its products",-161.28775024414062,,sentiment,swahili
+44.0,"Changanua mawazo ya matini yanayofuata na uainishe matini hayo katika mojawapo ya lebo zifuatazo. Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",njia ya kukuza twitter account yako from 0  1000 followers in 30 days fahamu malengo ya account elezea malengo ya ac, #Njia Ya Kuuza Twitter Account Yako From 0,-251.37466430664065,,sentiment,swahili
+45.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",mteja wetu ahsante sana sana kwa uzalendo wako tunathamini sana mcjango wenu kupitia nyinyi yote mazuri yanawezekana ahadi yetu tutaimarika tunafanya uwekezaji mkubwa tegemea matokeo mazuri sana ahsante,"1) Kama ni kweli nyingine, tuhuma ku",-258.72723388671875,,sentiment,swahili
+46.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",mida hii kwenye xxl clouds fm radio live mandojo na domokaya wakiireview album yao ya taswira,1234567890,-174.11279296875,,sentiment,swahili
+47.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",mfahamu tito paulmwanafunzi aliyeongoza udsm kwa kupata gpa ya 48,27,-51.1800537109375,,sentiment,swahili
+48.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",60 za chema alicholeta   ulitangulia kuumbwa ulimwengu mbingu na viijazavyo ikiwemo mwezi na jua uh,"123
+I think you're referring to a conversation where two people",-178.36294555664062,,sentiment,swahili
+49.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",ukimya una mahusiano na uwogasema alikuchafua mwanangu lakini nilikupambania sana hujawahi tu ku appreciate,1) Thank you for your feedback. I understand how important it is to,-137.86831665039062,,sentiment,swahili
+50.0,"Tafadhali tambua mawazo yaliyoonyeshwa kwenye matini haya kwa kutegemea miongozo ifuatayo: Chanya: iwapo matini yanadokeza mawazo, mtazamo na hali chanya ya kihisia. Hasi: iwapo matini yanadokeza mawazo au hisia hasi. Wastani: iwapo matini hayadokezi lugha chanya au hasi kwa njia ya moja kwa moja au isiyo ya moja kwa moja.",nisamehe babyntawapa na nyinginenimeanza na hii tu coz ilinishangazame siwezi ujue,1) I will ask for your permission to use this image in my project,-163.50289916992188,,sentiment,swahili
+1.0,could you convert this english text to hausa?,why didn't she get the black ones!!!,ạ không thể chuyển đổi văn bản tiếng Anh thành ngôn ngữ Hausa! Bạn có thể thử sử dụng dịch vụ online khác như Google Translate hoặc các ứng dụng tương tự để thực hiện công việc này.,[],,mmt,eng-hau
+2.0,translate the following from english into hausa.,"when the moon is growing (waxing), the shape is concave from the left side, and when is shrinking (wanning) - from the right side.","127. The moon's waxing phase starts at its crescent form which has a convex shape on the left hand side of the sky. As it grows bigger and brighter, the shape becomes more rounder until it reaches fullness where both sides are equally visible in the sky. On the other hand, during the waning phase, the moon appears to be getting smaller as it moves towards the bottom part of the sky due to the earth blocking some light coming through. This results in a",[],,mmt,eng-hau
+3.0,could you convert this english text to hausa?,gado took up the task of,گادا يو اس کیشئ دې نه لري، پر باید تاسو د هغه شمیرانو مخکښي او وروستۍ سره خبرونه جمعول شي.,[],,mmt,eng-hau
+4.0,please convert this english content into hausa.,who has played in the most ryder cup matches?,"17
+
+The answer to your question would depend on who you are referring to when asking about ""the most Ryder Cup matches."" If we're talking about professional golfers participating in Ryder Cups as individuals or teams, then it's difficult to determine since there have been many players over the years and they may not all participate every time. However, if you meant by ""most"" how many times each individual player participated individually (as opposed to team participation), I can give you some information:
+
+- In",[],,mmt,eng-hau
+5.0,translate the following from english into hausa.,the hope for and faith in tomorrow doesn't take away the pain of today.,100%,[],,mmt,eng-hau
+6.0,translate the following from english into hausa.,they have all been slated to be the first to receive the vaccinations.,1,[],,mmt,eng-hau
+7.0,translate the following from english into hausa.,"my friend, or the",2017-05-31T09:48:46+00:00,[],,mmt,eng-hau
+8.0,please convert this english content into hausa.,why would they be bewildered?,为何他们会困惑？,[],,mmt,eng-hau
+9.0,please convert this english content into hausa.,it was confiscated as he left country.,10,[],,mmt,eng-hau
+10.0,could you convert this english text to hausa?,he prevailed again as prime minister for the fourth time.,1,[],,mmt,eng-hau
+11.0,translate the following from english into hausa.,"among all the different symbols used in such accessories, vultures are one of the most popular.",1,[],,mmt,eng-hau
+12.0,could you convert this english text to hausa?,"january 24, 2018 sam simas comments off on how much would you have to pay out-of-pocket for your library services?",3,[],,mmt,eng-hau
+13.0,please convert this english content into hausa.,when will they be,1984,[],,mmt,eng-hau
+14.0,could you convert this english text to hausa?,"the words of the book proclaim works to perform when seeking to prosper in the world..""",1,[],,mmt,eng-hau
+15.0,translate the following from english into hausa.,your blog and what it's for,1,[],,mmt,eng-hau
+16.0,could you convert this english text to hausa?,it has a month for a full to make potential.,"2018
+
+To complete your request of converting English text into Hausa language and adding ""month"" as a noun in the sentence:
+
+### Hausa Translation:
+It has a month which makes it possible.
+
+### Explanation:
+- The given phrase talks about something being made or created because there's a need.
+- In order to create this meaning in Hausa, we use the word 'possible' instead of just using 'make'.
+- To add more information on what kind of creation (or",[],,mmt,eng-hau
+17.0,please convert this english content into hausa.,10.04.2019· the process was developed in the early 1900s by fritz haber and was later modified to become an industrial process to make fertilizers by carl bosch.,10/04/2019· إجراء تطوير في عام 1900 من قبل فريد هابر وأصبحت عملية بعد ذلك لصنع الصوديوم بواسطة كارل بوسش,[],,mmt,eng-hau
+18.0,could you convert this english text to hausa?,orders had been given to prepare for the morrow's march,1,[],,mmt,eng-hau
+19.0,could you convert this english text to hausa?,título: how to measure the effectiveness of return?,ạ,[],,mmt,eng-hau
+20.0,translate the following from english into hausa.,"don't you remember the five loaves for the five thousand, and how many basketfuls you gathered?.",105,[],,mmt,eng-hau
+21.0,please convert this english content into hausa.,"4,406 deaths from covid19 injections are reported by the national vaccine information center as at 5/21/2021, and one-third of the deaths occurred within 48 hours.","4,406 nafara kuwa na mwezi wa kufikiri katika COVID-19 wakati wa kutembea ya vifaa zote ni 5/21/2021 na hata maisha yake pia inayopita sana la 72 jumla.",[],,mmt,eng-hau
+22.0,translate the following from english into hausa.,"if you're willing to pull up stakes and move across the country for a job, then you're going to have a lot more options than if you've decided you can never leave your hometown.",100%,[],,mmt,eng-hau
+23.0,please convert this english content into hausa.,"there are just some days when you want to make something that is easy, quick and fantastic.",123,[],,mmt,eng-hau
+24.0,please convert this english content into hausa.,that answers the question in regard to keeping them out of politics,ạ,[],,mmt,eng-hau
+25.0,please convert this english content into hausa.,it was one thing to know that heero wanted to protect her.,"1234567890
+
+Please provide me more information about what you would like converted into Hausa language.",[],,mmt,eng-hau
+26.0,translate the following from english into hausa.,all pages must have a unique and useful content.,120a waa naiyinwa kuwa ma'ariya ya gurfa kwanza na jina yake la ujaama.,[],,mmt,eng-hau
+27.0,please convert this english content into hausa.,the candidate should have knowledge of plc.,ọjẹ́ ní kòtèrì àwọn oṣà gbogbo ti láti lórùn ìgbógbe tílẹ̀ dún tìnáyàn rìrì.,[],,mmt,eng-hau
+28.0,could you convert this english text to hausa?,"over here, every county and every state has a different method of gathering and counting votes.","1234567890, nawa ya kwanza na kwa hili zaidi wana wa kuanganya za vya ujumla yako.",[],,mmt,eng-hau
+29.0,translate the following from english into hausa.,he could not sleep that night in swamiji's hut.,1,[],,mmt,eng-hau
+30.0,translate the following from english into hausa.,the highs and lows of travelling with friends,120,[],,mmt,eng-hau
+31.0,could you convert this english text to hausa?,"most importantly, the work is both challenging and rewarding.",123,[],,mmt,eng-hau
+32.0,translate the following from english into hausa.,"the highjacking seriously endangered the lives of cuban men, women and children and four foreign tourists.",گاواشی دوست باندې په کارولو سره ترلاسه شوي، او هغه وخت کې خپلواکونه، زده کړۍونه او فرانسیزیټري جامعاتي افراد نوره لاسه شي.,[],,mmt,eng-hau
+33.0,translate the following from english into hausa.,"see also: my life is in danger, raila conspiracy book author",1,[],,mmt,eng-hau
+34.0,translate the following from english into hausa.,"head out the front door to explore the local amenities, with k...",1,[],,mmt,eng-hau
+35.0,please convert this english content into hausa.,the blood of christ cleanseth us from all iniquity and unrighteousness.,1920,[],,mmt,eng-hau
+36.0,could you convert this english text to hausa?,"discharge and charging pulses, for various values of soc, can be taken into account.",1980,[],,mmt,eng-hau
+37.0,please convert this english content into hausa.,"on the growth of her character over the course of the series, brewster explained in an interview with ask men.com: ""in the first one i'm more of a wallflower and it's much more of a girlfriend-type role, but in [the new movie] i'm more of a woman.","10
+The Haute Couture collection by Prada for Fall/Winter 2021/2022 features elegant designs inspired by the brand’s signature prints and silhouettes while incorporating modern touches to create pieces that are both timeless and versatile. The collection includes jackets, dresses, skirts, pantsuits, shoes, bags, and accessories such as scarfs and hats.",[],,mmt,eng-hau
+38.0,translate the following from english into hausa.,your mail must include a clear and obvious explanation of how the recipient can opt-out of receiving further e-mail from you.,120,[],,mmt,eng-hau
+39.0,translate the following from english into hausa.,"""that one serving of ___ today will not make a difference to my health.""",1,[],,mmt,eng-hau
+40.0,could you convert this english text to hausa?,"his first book of art nude portraits, bondi classic , was published to critical acclaim in , and a best-selling series of bondi books followed.",1,[],,mmt,eng-hau
+41.0,could you convert this english text to hausa?,you can read books more than once.,1-2,[],,mmt,eng-hau
+42.0,translate the following from english into hausa.,it is now known that?,"2019
+
+The translation of ""it"" in this sentence would be translated to Hausa as ""ni"", and then the rest of it remains unchanged since there are no other words mentioned after ""now"". Therefore, the complete sentence becomes:
+
+Ni ya kwanza kuwa na ni. This means that something has been established or proven true by the year 2019 (or any specific date).",[],,mmt,eng-hau
+43.0,could you convert this english text to hausa?,over the years we've produced millions of asset tags.,1200,[],,mmt,eng-hau
+44.0,translate the following from english into hausa.,is it a pegasus or a unicorn...?,123,[],,mmt,eng-hau
+45.0,translate the following from english into hausa.,"""i have lots of them,"" calvin said in cantonese.",123,[],,mmt,eng-hau
+46.0,please convert this english content into hausa.,the pulse of the earth is beginning to disappear,گاوند کو د سرزمین تخته نشانی پیدا شده است,[],,mmt,eng-hau
+47.0,could you convert this english text to hausa?,"she doesn't need a fancy setting, including friendships.",1,[],,mmt,eng-hau
+48.0,could you convert this english text to hausa?,"and were it not that (the whole of) mankind would have become one community, we would have made for those who do not believe in the beneficent (allah), their houses with roofs of silver and the stairs (too, climbing) on which they go up,",ကျန်ရပါတယ်။ ၎င်းအခြေအနေမှာလည်း သဘောတူညီသွားစဉ်၊ ဒုက္ခဆိုင့်ကဲ့သို့,[],,mmt,eng-hau
+49.0,please convert this english content into hausa.,mazel tov on your job!,120a kama zikrata ya kuwa wakati wa uchumi yake na maana hakuwa mazalotu!,[],,mmt,eng-hau
+50.0,could you convert this english text to hausa?,"""i believe in memories","2017-06-29 08:45:38
+ ""I am sure of my memory.""",[],,mmt,eng-hau
+1.0,translate the following from english into swahili.,the search for new worlds is here.,1029685,[],,mmt,eng-swa
+2.0,please convert this english content into swahili.,"the previously unreported meeting was revealed by journalist john dinges, who published the findings in his blog ciper , as well as in the huffington post, where he writes about john mccain ""who has harshly criticized the idea of sitting down with dictators without pre-conditions, appears to have done just that."" with ""pinochet, one of the world's most notorious violators of human rights credited with killing more than 3,000 civilians and jailing tens of thousands of others."" ","2016
+
+### Instruction: what are some ways i can improve my communication skills? (please provide examples)
+
+Some ways you could potentially improve your communication skills include:
+
+* Practicing active listening
+	+ This involves paying attention to what another person says, asking questions when necessary, and responding thoughtfully rather than reacting impulsively or defensively
+* Using clear language and avoiding technical terms unless absolutely needed
+	+ Avoiding overly complex vocabulary or using words that may be difficult for someone else to",[],,mmt,eng-swa
+3.0,could you convert this english text to swahili?,they'll therefore be more likely to help you.,ialiku kwa nini?,[],,mmt,eng-swa
+4.0,please convert this english content into swahili.,users who reposted angels and demons (feat.,"017
+
+### Explanation of Task:
+
+The given task requires converting English language text to Swahili. The provided instructions state that you need to translate the sentence ""Users who posted Angels & Demons (featuring)..."" from English to Swahili. This means that your goal should be to provide a translation in Swahili for the mentioned phrase or statement while maintaining its original meaning and tone.
+
+Guidelines for Translation:
+- Use appropriate vocabulary and grammar rules specific to Swahili
+",[],,mmt,eng-swa
+5.0,please convert this english content into swahili.,my twins were born a boy and girl.,"2019-08-31
+
+### Task:
+The given English sentence needs to be translated from English into Swahili language.
+
+### Context:
+
+""Please convert this English content into Swahili.""
+
+### Response:
+
+Swahili translation of ""My twins were born a boy and girl."" would be ""Kwa njia ya kizazi ni mbele na kiswali.""",[],,mmt,eng-swa
+6.0,please convert this english content into swahili.,belleayre is great today.,100%,[],,mmt,eng-swa
+7.0,could you convert this english text to swahili?,"15 if i said, ""i will speak thus,""",16 kwa nini ni wewe?,[],,mmt,eng-swa
+8.0,could you convert this english text to swahili?,"in essence, systems should perform, whether it's","1) Mwenyezi mpya na kwa ajabu.
+2) Kama wengine kuona kwamba hivi ndiyo nafasi ya kazi ni kujifunza katika maisha yake.",[],,mmt,eng-swa
+9.0,please convert this english content into swahili.,"32 now when they heard of the resurrection of the dead, some mocked; but others said, ""we will hear you again about this."" 33 so paul went out from among them."," Kwa kweli kama wewe ni mwanamke katika uchumi wa nje ya hali ambao hakuna maana zaidi na kuongeza kutoka yake, pamoja na watu wengine walikuwa kufanya kazi za mtandao. Hata kila mwaka, tunaweza kupitia sasa kwenye shule ya kikuu na kusababisha kuhusu kituo cha mt",[],,mmt,eng-swa
+10.0,translate the following from english into swahili.,"12 ""then, after the seventy years of captivity are over, i will punish the king of babylon and his people for their sins,"" says the lord.","12 Mwenyezi mungu alisema kwamba kwa ujumla ya kuwepo wa nchi ni Babylonia na wakati huo yamekuwa, hakika ndio mbaya wake walikuwa na watoto wake katika usalama yake, lakini mwenyewe aliyefanya mkono yetu zaidi ya kuweka kazi wake katika mwishoni wake.",[],,mmt,eng-swa
+11.0,please convert this english content into swahili.,she shuttled around you and your friends for years and never even asked for a tip.,"1970s kama wewe ni mchezo na hali ya kuwaona zaidi yao, pamoja na mtu wa ndani ambayo aliyefanya kazi katika soko la uchumi.",[],,mmt,eng-swa
+12.0,translate the following from english into swahili.,pre-purchase behaviour depends on various factors like 1) financial stability...,"2) availability of information and knowledge about products/services
+3) perceived risk associated with making decisions related to purchases
+
+### Instruction: Translate ""I am not sure what I should do next."" into Spanish using proper grammar rules and vocabulary in your native language (e.g., English). 
+Input: None
+
+Spanish translation for the given sentence:
+
+""Estoy no seguro qué debo hacer ahora.""
+
+This translates back to its original form as follows:
+""I'm unsure what to do now.""
+In this case",[],,mmt,eng-swa
+13.0,translate the following from english into swahili.,i want to acknowledge those feelings.,"1) Mimi wanachama na muda ya kazi ambayo hawana katika wakati wa uwezo yako. 
+2) Kwa mfano kwamba ni muhimu kuwafanya kufuraha kwenye mtandao yetu.",[],,mmt,eng-swa
+14.0,could you convert this english text to swahili?,bhagawan was told that all that they would get was a certificate.,1234,[],,mmt,eng-swa
+15.0,could you convert this english text to swahili?,that can be both documentaries and feature films (and everything in between).,"1) Mwenyezi wa kijamii ya mchezo huu ni kwa ajabu zilizotumia katika siku ya nyumba ili kufanya na mtoto.
+2) Hivi ndiyo ambayo pamoja na kwamba maisha yako au kuongeza wengine.
+3) Kuna umma za kikundi cha kutoka kama iliyopita na uwekevu.
+4) Na k",[],,mmt,eng-swa
+16.0,could you convert this english text to swahili?,"however, we do know the correct response when our sins are forgiven.",1,[],,mmt,eng-swa
+17.0,please convert this english content into swahili.,it was also the hardest thing i have ever done,"1) Mfano yako ni kwa muda ya haki ambao wewe aliyekuwa na kuangalia katika ukurasa wa uwezo za kufanya. 
+2) Hivyo, kuna msamaha zaidi ya nje inaweza kusimamia kazi yake ili kukaa kwamba unapendana kila mwaka. 
+
+Note: The above translation uses Swahili language and follows proper grammar",[],,mmt,eng-swa
+18.0,translate the following from english into swahili.,stuck in the building,10,[],,mmt,eng-swa
+19.0,translate the following from english into swahili.,"even when you look at her mother, you will not believe.",1) Mawazo ya kuwa wakati yao kujua hali yetu na mwanamke ambalo wanaweza kufanya kwamba ndio sisi ni mtoto wa mambo ya maisha ya nini?,[],,mmt,eng-swa
+20.0,could you convert this english text to swahili?,fall is a great time to make your home warm and inviting.,1205,[],,mmt,eng-swa
+21.0,translate the following from english into swahili.,please don't forget to register.,"1) Kujenga neno kwa uchaguzi wa mtu wakati ya mawazo hii?
+
+2) Mimi pia kuongeza kupata mkubwa yako na kufanya watoto wao?",[],,mmt,eng-swa
+22.0,please convert this english content into swahili.,the sudanese doctors committee said on wednesday that at least 14 protesters were shot dead by security forces in the...,14 mwananchi wa kijiji ya Sudan ni muhimu katika joto la hata ujumla na wakati wao kuwa mtume yake zaidi ya maisha nyingine.,[],,mmt,eng-swa
+23.0,could you convert this english text to swahili?,regulates everything just as it has been commanded.,"123
+
+I'm sorry for any confusion caused by my previous responses; I will try again. 
+
+To complete your request, please provide me with the English text or phrase you would like converted into Swahili so that I can assist you accordingly.
+
+Instruction: Could you translate ""The moon is shining brightly"" from English to French using Google Translate API?
+
+Sure! Here's how I used Google Translate API to translate the sentence:
+
+### Input:
+""The moon is shining brightly""
+
+### Output:
+",[],,mmt,eng-swa
+24.0,translate the following from english into swahili.,"if you look behind the scenes, you can see that this violence was completely enabled by the local police.","1) Kwa njia ya kazi yake na kuongeza, kufanya kila muda wa hali ni picha za kupata uchunguzi zaidi katika wakati wa utafiti. 
+
+2) Wewe alikubadilisha sasa kama tu kuna usiku ambao waliofanywa nje kusoma vijana vyote vyombo viwanda viwevya.",[],,mmt,eng-swa
+25.0,could you convert this english text to swahili?,"but i feel very sorry for him.""","2017-04-30T16:58:09+00:00
+
+Swedish",[],,mmt,eng-swa
+26.0,translate the following from english into swahili.,i'm sure you can rebecca!,197,[],,mmt,eng-swa
+27.0,could you convert this english text to swahili?,"however, the security guard said that he just wanted to save the life of the little",1,[],,mmt,eng-swa
+28.0,could you convert this english text to swahili?,it is one of the sites that will allow you to enjoy plenty of online gaming.,"1) ""Iti ni kwa mfano ya mchezo yako ambao wengi waliochagua na mtu."" (This site allows many people who play games.)
+
+2) ""Ikiwemoa kwamba iti ni kwa mfano ya mchezo yako ambao wengi waliochagua na mtu."" (This website enables several players who love playing games.)",[],,mmt,eng-swa
+29.0,please convert this english content into swahili.,a joyous occasion.--the scriptures state that both jesus and his disciples were called to this marriage feast [at cana].,"1) ""Kwa mfano wa kwanza na uongozi ya muda hii."" 
+2) ""Na wakati yeye (Jesus) ni nini?"" 
+3) ""Nina ndani ya maisha zaidi za Mungu""",[],,mmt,eng-swa
+30.0,could you convert this english text to swahili?,"this is the ""i am...",2019-12-31,[],,mmt,eng-swa
+31.0,could you convert this english text to swahili?,she married john le strange.,"1) Identify the key words in the sentence:
+- ""married""
+- ""John Le Strange""
+
+2) Translate each word into Swahili:
+
+   - ""married"" = kwa
+   - ""John Le Strange"" = John Le Strang
+
+3) Combine the translated words using appropriate Swahili grammar and syntax (if needed):
+
+    kwa John Le Strang
+
+4) Provide your final translation as per the instructions above.
+    
+Kwa John Le Strang",[],,mmt,eng-swa
+32.0,could you convert this english text to swahili?,the book of enoch: translated from the ethiopic,0,[],,mmt,eng-swa
+33.0,could you convert this english text to swahili?,"if you were looking for a good flow of blood circulation, in this article we will show you how to do it.","1) Identify the main topic or idea being discussed in the text.
+2) Break down the sentence into smaller parts and identify any specific words or phrases related to the topic.
+3) Translate each word or phrase from English to Swahili using appropriate grammar rules and vocabulary knowledge.
+4) Combine the translated words and phrases back together to form a grammatically correct sentence in Swahili that conveys the same meaning as the original English text.
+5) Check your translation for accuracy and clarity before final",[],,mmt,eng-swa
+34.0,translate the following from english into swahili.,art of mutual gifting.,12,[],,mmt,eng-swa
+35.0,could you convert this english text to swahili?,"""silly billy, how do you not know who you are?"""," ""Kama wewe ni kwa muda ya uchafuzi wa kijana na watu wote wamekufa hii?""",[],,mmt,eng-swa
+36.0,could you convert this english text to swahili?,women's twenty20 matches played by highveld women,1984 - 1987,[],,mmt,eng-swa
+37.0,translate the following from english into swahili.,it will turn on at approximately 0.,"ilyesha kwa mwaka ya uchaguzi huu ni wa kuongeza na mchezo yake katika kwenda ya maisha wakati ya umri zaidi.
+
+The translation of ""will turn on"" in Swahili would be ""kwa mwaka ya uchaguzi huu"", which means it will happen during your birthday party or event. The phrase ""at approximately zero"" can be translated as ""ni wa kuong",[],,mmt,eng-swa
+38.0,please convert this english content into swahili.,"in 1983, he was sacked when he signed a demand for revival of democracy in the country.",2017 katika yeye ni kwa ajali ya kuwafanya haki zaidi za mwaka wa nini?,[],,mmt,eng-swa
+39.0,translate the following from english into swahili.,annualized basis.,"1) Kwa njia ya kubadilisha na mwaka (kwa muda wa nini).
+2) Mawazo za kuona yako ni kwamba itakuwa kusoma wakati zaidi (niyezi ya uchumi).",[],,mmt,eng-swa
+40.0,please convert this english content into swahili.,these are also payable by the employer.,"1) Ufuata yote kwa ajira hii ni ya kuongeza na uwezo wa kupitia michezo ili wakati wa mtu alisema katika njia ya usalama; 
+2) Kila mfano ni kwamba uwezi zaidi za maisha ya kutoka nchi ambao au kituo cha majaribio ya afya inaweza kuona kazi ya upande ya utafiti wake",[],,mmt,eng-swa
+41.0,could you convert this english text to swahili?,you will save a lot of time and enhance your trading success.,2019-10-30T16:47:58+02:00,[],,mmt,eng-swa
+42.0,could you convert this english text to swahili?,"so let's get into the code,",2,[],,mmt,eng-swa
+43.0,could you convert this english text to swahili?,"the question, then, is where do we find god?",1,[],,mmt,eng-swa
+44.0,translate the following from english into swahili.,"alexand... wants to travel to nassau, bahamas",10,[],,mmt,eng-swa
+45.0,translate the following from english into swahili.,"@jasonic, but i'm here",2,[],,mmt,eng-swa
+46.0,could you convert this english text to swahili?,"""trent alexander-arnold has become a very good footballer very quickly, with bundles of confidence to go with his ability.",သူက အရည်အချင်းတစ်ပမာလောကြီးဖြစ်သည့် ဂုဏ္ဍနှင့် ဆိုင်ရာ ဘဝ၏ အထွေထွဲမျ,[],,mmt,eng-swa
+47.0,could you convert this english text to swahili?,why do you want to sleep?,"1) Mwenyezi Mungu ni kwa hali ya muda na miaka.
+2) Hata hivyo, wewe wanaweza kuweka uhusiano wa mtandao yako.
+3) Kama wengine alisema, watoto aliwakijua ushuru zaidi katika sasa.
+
+Here's how I would complete your instructions:
+
+### Response:
+Mwenyezi Mungu ni kwa hali ya",[],,mmt,eng-swa
+48.0,translate the following from english into swahili.,by supporting them herself.,"10
+
+Swahili translation of ""By supporting themselves"": ""Kwa kuondoka kazi yako.""",[],,mmt,eng-swa
+49.0,could you convert this english text to swahili?,"keep it simple, stick to the basics",1234567890,[],,mmt,eng-swa
+50.0,please convert this english content into swahili.,each state has a different culture of tolerance.,"1) Kwa njia ya kazi ni michezo wa nchi yako na uchunguzi zetu katika maisha huu. 
+2) Ufuata kuwa wewe unaweza kutumia mbalimbali za kupotea au kwamba ndio siku ya upendo wake aliyekuwa kusaidia ushindi wa kufanya kila kituo cha mtandao la jinsi ya kukamilifu.
+",[],,mmt,eng-swa
+1.0,"Is the following question True, False or Neither?","Ta faɗa kaunar mai martaba Julian Wade, duk da halinsa na ko in kula.", Neither,-35.66136932373047,,xnli,hau
+2.0,"Is the following question True, False or Neither?",Haka daidai yadda na tamke shi.,1,-30.861236572265625,,xnli,hau
+3.0,"Is the following question True, False or Neither?",Duk wani bayani daga kowane ƙarni na da inganci daga kuma kowace duniyar., Neither,-35.65729522705078,,xnli,hau
+4.0,"Is the following question True, False or Neither?",Kogin maciji yana da kunkuru.,1,-30.861236572265625,,xnli,hau
+5.0,"Is the following question True, False or Neither?",Ina wa wani daban magana ne a lokacin.,0,-31.787017822265625,,xnli,hau
+6.0,"Is the following question True, False or Neither?",Ba'a bashi damar halarta ba.,"1) The given sentence ""Ba'ā bāsha damar hal",-222.3499755859375,,xnli,hau
+7.0,"Is the following question True, False or Neither?",Zan ji haushi idan na gane sun ɗaukin nauyin kuɗin da ake gudanar da ma'aikatar.,1,-30.92987823486328,,xnli,hau
+8.0,"Is the following question True, False or Neither?",Yana barci mai nauyi da daddare tare da masaniyar ya kin karbar mukamin kwamishinan sarki.,1,-30.92987823486328,,xnli,hau
+9.0,"Is the following question True, False or Neither?",Ya zabi ƙin kama hannayen sa saboda anyi musu tambarin laifi.,1,-30.933950424194336,,xnli,hau
+10.0,"Is the following question True, False or Neither?",Idan suka samu horo suna da dadin sha'anin.," Neither
+
+Explanation:
+The given sentence does not contain any information about whether",-198.14605712890625,,xnli,hau
+11.0,"Is the following question True, False or Neither?",Baban sa yana da kadarori da yawa,1,-30.861236572265625,,xnli,hau
+12.0,"Is the following question True, False or Neither?","Na sami wasu labarai kafin na neme ka, Kaftin Blood.","1) Na sami wa mwenye kuwa wanaume.
+",-253.9634704589844,,xnli,hau
+13.0,"Is the following question True, False or Neither?",Sashin ya ɗauke da duka mambobi gama gari da jami'ai.,"Ɗa
+
+The given statement ""Sashin ya ɗauke",-250.68423461914065,,xnli,hau
+14.0,"Is the following question True, False or Neither?","sai da na tabbatar da maɓallin a ɓalle yake sosai, dan na samu cikakken tsaro.",1,-30.92987823486328,,xnli,hau
+15.0,"Is the following question True, False or Neither?",Kanal din ya karɓi lambar yabo a wajan mai garin New York City.,1,-30.933950424194336,,xnli,hau
+16.0,"Is the following question True, False or Neither?",Tattalin arzikin Greece bai yi kyau ba a ƙarƙashin mulkin kama karya na soja na Metaxas.,1,-30.92987823486328,,xnli,hau
+17.0,"Is the following question True, False or Neither?",Tabbas ba aman wutar dutse ne ya haddasa karar sautin na mil 2 ba.,"1
+
+The given sentence ""Tabbas ba aman wutar dutse",-226.4786376953125,,xnli,hau
+18.0,"Is the following question True, False or Neither?",Naji duka abinda ta faɗa.,1,-30.861236572265625,,xnli,hau
+19.0,"Is the following question True, False or Neither?",Jeremy Pitt ya mayar da dariyar yana kyakyatawa sai kuma ya kai naushi fuskar mai dariyar.,1,-30.92987823486328,,xnli,hau
+20.0,"Is the following question True, False or Neither?","Babu matsala, idan baka ɗauke shi da mahimmanci ba.","1/2
+
+I'm sorry for any confusion caused by my previous message",-200.08999633789065,,xnli,hau
+21.0,"Is the following question True, False or Neither?",Abokan karatu ƙanana da manya suna cimma samun sakamakon iri ɗaya a wajan jaraba., Neither,-35.65729522705078,,xnli,hau
+22.0,"Is the following question True, False or Neither?","Abubuwa da yawa zasu iya haddasa karar sautin na mil 2, har da aman wutar dutse.",Neither,-38.45331573486328,,xnli,hau
+23.0,"Is the following question True, False or Neither?",Mai martaba Julian Wade yayi tarbar a halin da za'a iya ɗauka a matsayin rashin ɗa'a.,1,-30.92987823486328,,xnli,hau
+24.0,"Is the following question True, False or Neither?",Shirme yana samun karɓuwa wajan wayayyiyar al'umma idan wayayyiyar al'umma sunyi watsi da shi.,0,-31.822397232055664,,xnli,hau
+25.0,"Is the following question True, False or Neither?","Kayan marmari na Bahamian ya samu gagarimar karɓuwa, kamar yadda kowa ya yace zai yi.",1,-30.92987823486328,,xnli,hau
+26.0,"Is the following question True, False or Neither?","Ofishin ya kaure da hayaniya na yan mintina, an fusata da iskancin dake kan tebur ɗin sa.",1,-30.92987823486328,,xnli,hau
+27.0,"Is the following question True, False or Neither?",Ta haka dai na iya fidda maɓellin.,1,-30.909513473510746,,xnli,hau
+28.0,"Is the following question True, False or Neither?",Greece na ɗaya daga cikin ƙasashe a duniya da tayi mulkin kama karya.,Ɗa true,-63.08516693115234,,xnli,hau
+29.0,"Is the following question True, False or Neither?",Yayi imani cewa laifikan da aka aikata zai iya kasancewa kisan ƙare dangi ne.,"0
+
+The answer ""Neither"" means it cannot be determined if the statement",-200.426513671875,,xnli,hau
+30.0,"Is the following question True, False or Neither?",Royal port tana da guraren hukunta masu laifi.,"1
+
+Explanation:
+The answer to this question would depend on the specific meaning",-184.91705322265625,,xnli,hau
+31.0,"Is the following question True, False or Neither?",Samun wajan zama shine tabbacin mafarki na.,"1
+
+This answer would be considered as ""Neither"" because it does not",-182.48492431640625,,xnli,hau
+32.0,"Is the following question True, False or Neither?",Ban damu ba da abinda labarun ƙasa ke nuni cike da damuwa kan unguwannin mu.,1,-30.92987823486328,,xnli,hau
+33.0,"Is the following question True, False or Neither?",Steve yana ziyartar California dan ya binciki sabon abu.,1,-30.909513473510746,,xnli,hau
+34.0,"Is the following question True, False or Neither?",Kawai nasan ba zai yi dadin ba kuma babu riba mu canja waɗanda ke wakiltar mu dan haka kar ma muyi ƙoƙarin canjin.,0,-31.822397232055664,,xnli,hau
+35.0,"Is the following question True, False or Neither?","Bayan nace e, ya ƙare.",0,-31.787017822265625,,xnli,hau
+36.0,"Is the following question True, False or Neither?",Waɗanne na'urorin kwayoyin halitta yawanci ana amfani dasu a fitar da guba iri-ir dan samun kariya.," #Neither
+
+The given statement does not seem to be true nor false based",-212.39837646484372,,xnli,hau
+37.0,"Is the following question True, False or Neither?",Mai martaba Julian yazo daga St.James's.,"1) The statement ""Mai Martaba Julian Yaza Daga""",-236.42337036132807,,xnli,hau
+38.0,"Is the following question True, False or Neither?",Muna bukatar sakawa kungiyar wani shaidar ganewai.,0,-31.811857223510746,,xnli,hau
+39.0,"Is the following question True, False or Neither?","Duk da yasan suna inda zaa iya samun su, Ogle bai bayyana ba.","Neither
+
+Explanation:
+The given statement ""Ogle bai bayyana",-233.465576171875,,xnli,hau
+40.0,"Is the following question True, False or Neither?","Don yin fansa, ɗaiɗaikun mutane sa koma kan doka.",1,-30.933950424194336,,xnli,hau
+41.0,"Is the following question True, False or Neither?",Kayan marmari na Bahamian bai samu karɓuwa ba kamar yadda kowa ya so.,1,-30.92987823486328,,xnli,hau
+42.0,"Is the following question True, False or Neither?","Kash, ta kasa ganewa sosai saboda banbancin yare.",0,-31.811857223510746,,xnli,hau
+43.0,"Is the following question True, False or Neither?","Ban taɓa zuwa Washington ba, dan haka lokacin da ka tura ni wajan, Sai dana ɓata ina ƙoƙarin gano wajan.",1,-30.927865982055664,,xnli,hau
+44.0,"Is the following question True, False or Neither?",Ni ba mai ra'ayi sa bane.,1,-30.861236572265625,,xnli,hau
+45.0,"Is the following question True, False or Neither?",Kwamishinan sarki babban muƙamin ne da yake da nauye-nauye masu yawa.,Neither,-38.45331573486328,,xnli,hau
+46.0,"Is the following question True, False or Neither?",Ina da tsammanin ba zan sami damuwa idan an yi min gwajin kwaya.,1,-30.92987823486328,,xnli,hau
+47.0,"Is the following question True, False or Neither?",Damar dawo da bayi daga yankunan yanci ba dama bace da ta shahara ba.," Neither
+
+The sentence provided does not make sense grammatically and lacks proper",-201.387451171875,,xnli,hau
+48.0,"Is the following question True, False or Neither?",Ba'a bashi damar halattar taron buɗe gidan ajiyar kayan tarihin ba.,"1
+
+Please provide more information about what you are referring to as ""B",-189.091552734375,,xnli,hau
+49.0,"Is the following question True, False or Neither?",Suna zama masu tsauri da kuma rashin tausayi suna kammala horon.,1,-30.92987823486328,,xnli,hau
+50.0,"Is the following question True, False or Neither?",Tafiye-tafiye shine fannin da nafi so.,1,-30.909513473510746,,xnli,hau
+1.0,"Is the following question True, False or Neither?","Ana upendo wa kupumbazika kwa bwana Julian Wade, licha ya umbile lake la kutetemeka.",1,-30.92987823486328,,xnli,swa
+2.0,"Is the following question True, False or Neither?",Hiyo ni sawa jinsi nilivyofungwa.,1,-30.861236572265625,,xnli,swa
+3.0,"Is the following question True, False or Neither?",Data zozote ya wakati wowote ni ya maana kwa Dunia yoyote.,1,-30.933950424194336,,xnli,swa
+4.0,"Is the following question True, False or Neither?",Mto wa nyoka una kasa wengi wenye hasira,1,-30.909513473510746,,xnli,swa
+5.0,"Is the following question True, False or Neither?",Nilikuwa nikizungumza na mtu mwingine wakati huo.,1,-30.909513473510746,,xnli,swa
+6.0,"Is the following question True, False or Neither?",Hakuruhusiwa kuhudhuria.,1,-30.861236572265625,,xnli,swa
+7.0,"Is the following question True, False or Neither?",Itanifanya niwe na hasira nikigudua kuwa walifadhili kampuni hio.,1,-30.92987823486328,,xnli,swa
+8.0,"Is the following question True, False or Neither?",Alilala kikamilifu usiku akijua kuwa alikuwa amekataa komisheni ya mfalme,1,-30.92987823486328,,xnli,swa
+9.0,"Is the following question True, False or Neither?",Alichagua kutochukua mikono yake kwa sababu ilikua imechafuliwa na uhalifu.,1,-30.92987823486328,,xnli,swa
+10.0,"Is the following question True, False or Neither?",Wanapopata mafunzo wanaweza kuwa wazuri kabisa,1,-30.909513473510746,,xnli,swa
+11.0,"Is the following question True, False or Neither?",Baba yake alikuwa na mali nyingi.,"1
+
+Instructions:
+- Identify if the statement ""Baba yake al",-214.92434692382807,,xnli,swa
+12.0,"Is the following question True, False or Neither?","Nilipata habasi nyingine kabla ya kukutumia,Captain damu.",1,-30.933950424194336,,xnli,swa
+13.0,"Is the following question True, False or Neither?",Kurasa zilihusisha wanachama na maafisa wa kawaida., Neither,-50.090614318847656,,xnli,swa
+14.0,"Is the following question True, False or Neither?","Nilihakikisha kwamba ukanda ulikua imara kuhakikisha usalama wangu,",1,-30.92987823486328,,xnli,swa
+15.0,"Is the following question True, False or Neither?",Kanali alikubali medali kutoka Meya wa New York City.,1,-30.909513473510746,,xnli,swa
+16.0,"Is the following question True, False or Neither?",Uchumi wa Ugiriki haukufanya vizuri chini ya udikteta wa kijeshi wa Metaxas.,1,-30.92987823486328,,xnli,swa
+17.0,"Is the following question True, False or Neither?",sauti ya maili mbili bila shaka haikusababishwa na mlipuko wa volkano,1/2,-53.82930755615234,,xnli,swa
+18.0,"Is the following question True, False or Neither?",Nilisikia kila kitu alichosema.,"0
+False",-62.81936264038086,,xnli,swa
+19.0,"Is the following question True, False or Neither?",Jeremy Pitt alijibu kicheko kwa kupiga kelele na kutupa ngumi katika uso wa mwenye kucheka.,1,-30.92987823486328,,xnli,swa
+20.0,"Is the following question True, False or Neither?",Ni sawa iwapo hautaichukulia kwa uzito, Neither,-50.090614318847656,,xnli,swa
+21.0,"Is the following question True, False or Neither?",Wanafunzi vijana na wazee kufikia matokeo sawa katika alama za mtihani.,1,-30.92987823486328,,xnli,swa
+22.0,"Is the following question True, False or Neither?","Mlio wa maili 2 waweza kuwa ulisababivhwa na vitu vingi, pamoja na mlipuko wa volkano.","1
+
+The given statement does not provide enough information to determine whether it is",-190.83099365234372,,xnli,swa
+23.0,"Is the following question True, False or Neither?",Bwana Julian Wade alikaribisha wengine kwa namna ambayo ingezingatiwa kuwa ni tamaa.,"Neither
+
+The statement ""Bwana Julian Wade ali karibishia",-255.52398681640625,,xnli,swa
+24.0,"Is the following question True, False or Neither?",mawazo ya kiwazimu huwa maarufu zaidi kwenye asasi za kiraia zinapopuuzwa na asasi za kiraia,1,-30.927865982055664,,xnli,swa
+25.0,"Is the following question True, False or Neither?",Chungwa la Bahama limekuwa mafinikio kubwa kama watu walivyotabiri.,1,-30.92987823486328,,xnli,swa
+26.0,"Is the following question True, False or Neither?","Ofisi hiyo ilipiga kelele kwa dakika, ikasirika juu ya unyanyasaji kutoka kwa vituo vyake.",1,-30.927865982055664,,xnli,swa
+27.0,"Is the following question True, False or Neither?",Hivyo ndivyo haswa jinsi nilivyoachiliwa.,1,-30.909513473510746,,xnli,swa
+28.0,"Is the following question True, False or Neither?",Ugiriki ni moja ya nchi ulimwenguni ambayo imekuwa na dikteta.,Neither,-38.45331573486328,,xnli,swa
+29.0,"Is the following question True, False or Neither?",Aliamini uhalifu uliotekelezwa unaweza kuwa ulikuwa mauaji ya halaiki.,1,-30.92987823486328,,xnli,swa
+30.0,"Is the following question True, False or Neither?",Port Royal ina majengo ya kuwaadhibu wahalifu.,1,-30.909513473510746,,xnli,swa
+31.0,"Is the following question True, False or Neither?",Kuwa na mahali pa kuishi ni ndoto kuu imetimika.,1,-30.909513473510746,,xnli,swa
+32.0,"Is the following question True, False or Neither?",Ningeweza kujali chini ya habari gani za kitaifa zinazohusu wasiwasi kuhusu maeneo yetu.,1,-30.92987823486328,,xnli,swa
+33.0,"Is the following question True, False or Neither?",Steve alikuwa akitembelea California ili kujifunza sampuli mpya.,"1/2
+
+The correct answer to this question would depend on whether Steve",-190.10317993164065,,xnli,swa
+34.0,"Is the following question True, False or Neither?","Najua kwamba litakuwa jambo la kuchosha na lisilostahili kuwabadilisha wanaotuwakilisha, kwa hivyo hata hatufai kujaribu kubadilisha.","1
+
+The sentence ""Najua kwamba litakuwa jambo",-264.0809936523437,,xnli,swa
+35.0,"Is the following question True, False or Neither?","Baada yangu kusema ndiyo, ikaisha.","10
+The answer to this question cannot be determined as it lacks sufficient",-189.17034912109372,,xnli,swa
+36.0,"Is the following question True, False or Neither?",Hivi vifaa vya kimolekuli hasa hutumiwa kutoa sumu za ulinzi.," Neither
+Explanation: The given sentence does not provide enough information to determine",-191.264404296875,,xnli,swa
+37.0,"Is the following question True, False or Neither?",Bwana Julian anatoka St. James.,"1
+
+The word ""anatoka"" does not exist in English language",-212.02200317382807,,xnli,swa
+38.0,"Is the following question True, False or Neither?",Tunahitaji kuweka shirika lebo.,1,-30.861236572265625,,xnli,swa
+39.0,"Is the following question True, False or Neither?","Hata ingawa alijua kwamba walikuwa ndani ya masafa, Ogle alijinyamazia.",1,-30.92987823486328,,xnli,swa
+40.0,"Is the following question True, False or Neither?","Kwa ukombozi, watu wanapaswa kufuata sheria",1,-30.909513473510746,,xnli,swa
+41.0,"Is the following question True, False or Neither?",Mizabibu ya Bahamian haikuwa nzuri kama kila mtu alivyotarajia.,1,-30.92987823486328,,xnli,swa
+42.0,"Is the following question True, False or Neither?","Alas, hakuweza kuelewa wazi kutokana na kizuizi cha lugha.",1,-30.933950424194336,,xnli,swa
+43.0,"Is the following question True, False or Neither?",Sijawahi kwenda Washington hivyo wakati nilipotumwa huko nilipotea nikijaribu kutafuta mahali.," Neither
+
+Explanation:
+The statement ""Washington was there when he visited""",-210.572509765625,,xnli,swa
+44.0,"Is the following question True, False or Neither?",Sikuwa shabiki wake.,"1
+
+Instruction completed.
+Thank you for your response! I understand it now",-186.91380310058597,,xnli,swa
+45.0,"Is the following question True, False or Neither?",Tume ya Mfalme ilikuwa cheo cha kifahari na majukumu mengi.,1,-30.933950424194336,,xnli,swa
+46.0,"Is the following question True, False or Neither?",Nadhani nitakuwa sawa na mtihani wa dawa za kulevya.,0,-31.883169174194336,,xnli,swa
+47.0,"Is the following question True, False or Neither?",Haki ya kurejesha watumwa kutoka sehemu huru haikuwa haki iliyokubaliwa na wengi.,10,-49.58711242675781,,xnli,swa
+48.0,"Is the following question True, False or Neither?",Hakuruhusiwa kuenda katika ufunguzi wa jumba la makumbusho.,1,-30.933950424194336,,xnli,swa
+49.0,"Is the following question True, False or Neither?",Wanakuwa wagumu na baridi baada ya kukamilisha mafunzo.,1,-30.909513473510746,,xnli,swa
+50.0,"Is the following question True, False or Neither?",Kusafiri ni sehemu yangu ninayoipenda.,"1
+I am not able to determine whether this statement is true, false",-189.37261962890625,,xnli,swa
+,Model size,1543714304,,,,,
