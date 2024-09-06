@@ -13,6 +13,16 @@ from typing import List
 
 PARAM_SIZE = 421939200.0
 def zindi_score(submission_file):
+  """
+  This function generates the Lelapa AI Zindi score by combining model perfromance with model size
+  This function relies on the structure of the file, so ensure no changes to the submission file structure
+  are made
+
+  Inputs: 
+  submission_file: <string> Path to submisison file csv
+
+  Outputs: <float> Lelapa AI Zindi score that appears on the leader board  
+  """
   df = pd.read_csv(submission_file)
   avg_score = evaluate_zindi(df)
   size = df[df['Instruction']=='Model size']['Input Text'].astype(int)
@@ -20,6 +30,15 @@ def zindi_score(submission_file):
   return score
 
 def calculate_chrf(df):
+  """
+  This function claculates CHRF when given a prediction and ground truth for translation
+
+  Inputs: 
+  df: <pandas dataframe> with prediction and ground truth for machine translation
+
+  Outputs: 
+  score: <dict> chrf results
+  """
   chrf_metric = evaluate.load("chrf")
   references=format_references(df['Targets'].to_list())
   predictions=df['Response'].to_list()
@@ -103,6 +122,8 @@ def do_eval_compute(df, labels):
   This function gets the accuracy and F1 score for a task
   given the labels for the task, the logliklihoods and
   targets
+
+  labels: <list> of target labels
   """
   log_likelihoods = df['Log-Likelihood'].astype(float)
   ground_truths = df['Targets']
@@ -112,11 +133,17 @@ def do_eval_compute(df, labels):
 
 def evaluate_zindi(df):
   """
-  This function is the same as function above, it just does
+  This function is the same as main function above, it just does
   things in memory so the function can be used for the final eval
   as well.
 
   First step is to separate df such that each task has its own accuracy calc
+  This turns the submissionn file into scores
+  Inputs
+  df: submission file df
+
+  Outputs:
+  Average score accross all the tasks
   """
   scores = []
   df_temp = df[(df['Task'] == 'sentiment') & (df['Langs'] == 'hausa')]
