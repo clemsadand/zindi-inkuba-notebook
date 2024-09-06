@@ -20,7 +20,7 @@ This notebook if for Zindi Admin. It ncludes a code snippet to combine submissio
 
 Example Submission files:
 
-InkubaLM (lelapa/InkubaLM-0.4B) Submission file: https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/submission_inkuba.csv
+InkubaLM (lelapa/InkubaLM-0.4B) [Submission file](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/submission_inkuba.csv)
 SmoLlm (HuggingFaceTB/SmolLM-135M) Submisison file: 
 TinyLlama (TinyLlama/TinyLlama_v1.1) Submisison file: 
 Qwen (Qwen/Qwen2-1.5B) Submisison file: 
