@@ -26,8 +26,12 @@ def get_zindi_score(submission_file):
     merged_submission = pd.concat([res, data], axis=1)
     merged_submission = merged_submission.rename(columns = {'targets':'Targets'}) 
     merged_submission.to_csv("submission_to_score.csv")
-    size = data[data['Instruction']=='Model size']['Input Text'].astype(int)
+    size = data[data['Instruction']=='Model size']['Input Text'].astype(int).iloc[0]
+    size_comp = (size<=421939200.0)
+    percent = (1-(size/421939200.0))*100
     zind_score = eval.zindi_score("submission_to_score.csv").iloc[0]
-    return (zind_score)
+    #print("Smaller than/= to Inkuba:",  size_comp, "by",percent, "%")
+    #print("Zindi score:", zind_score)
+    return zind_score
 
 score = get_zindi_score('submission_test.csv')
