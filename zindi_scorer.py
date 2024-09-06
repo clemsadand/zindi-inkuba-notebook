@@ -26,7 +26,8 @@ def get_zindi_score(submission_file):
     merged_submission = pd.concat([res, data], axis=1)
     merged_submission = merged_submission.rename(columns = {'targets':'Targets'}) 
     merged_submission.to_csv("submission_to_score.csv")
-    zindi_score = eval.zindi_score("submission_to_score.csv")
-    return (zindi_score)
+    size = data[data['Instruction']=='Model size']['Input Text'].astype(int)
+    zind_score = eval.zindi_score("submission_to_score.csv").iloc[0]
+    return (zind_score)
 
 score = get_zindi_score('submission_test.csv')
