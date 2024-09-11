@@ -32,13 +32,13 @@ This files are made from running the participant notebook on different pre-exist
 These are the interim files used in the submission file creation process so you can see how evaluations might work for eacj langauge and task. These files would be generated on the participant side when they are evalauting the model (we have included them here just for funsies so you do not have to run everything to test)
 
 ## Zindi Score/Metric
-The main point of the challnege is to make the Inkuba model smarter and smaller. The final score combines the size of the model and the model performance. 
-
-### Model Perfromance Metric
-The model perfromance is a combination of multiple metrics because the model is a general base model capable of perfroming multiple tasks in multiple languages. We have chosen Yoruba and Swhaili as the two languages and the tasks are Sentiment Analysis, AfriXNLI (true, false, neiher) as well as Machine Translation in the Eng-> African langugae direction. Sentiment and AfriXnli accuracy/f1 are calculated using logliklihood. Machine translation is calculated using the CHRF metric. All metric are out of 100. The averga model performance score is the avergae accross these metrics.
+The main point of the challenge is to make the model smaller and there are bonus points for making it smarter. The final score combines the size of the model and the model performance. 
 
 ### Size comparison
-We utilise the number of weights of the model to compare the size. 
+We utilise the number of weights of the model to compare the size. At the end of the day it is the number of weights that impact inference time of the model and the fewer the number of weights, the more accessible the model is in low reosurce environments. 
+
+### Model Performance Metric
+The model perfromance is a combination of multiple metrics because the model is a general base model capable of perfroming multiple tasks in multiple languages. We have chosen Yoruba and Swhaili as the two languages and the tasks are Sentiment Analysis, AfriXNLI (true, false, neiher) as well as Machine Translation in the Eng-> African langugae direction. Sentiment and AfriXnli accuracy/f1 are calculated using logliklihood. Machine translation is calculated using the CHRF metric. All metric are out of 100. The averga model performance score is the avergae accross these metrics.
 
 ### Combined metric for size and model performance
 The final score is a score out of 1 (which can be converted to a percentage out of 100). The score is a combination of the model perfromance scaled by the size ration of the submitted model with the original Inkuba model. Essentially, a users model perfrmance score will be doubled if the model submitted is twice as small as Inkuba, the score would not change if the model is the same size as Inkuba and the score will be negative if the model is bigger than Inkuba. We are only interested in models that are the same size or smaller. 
