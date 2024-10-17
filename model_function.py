@@ -3,6 +3,7 @@ import time
 import csv
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
+import numpy as np
 
 
 # Function to load the model for text generation
@@ -106,12 +107,19 @@ def main(
 
             output_text = tokenizer.decode(outputs[0], skip_special_tokens=True)[len(user_prompt):]
 
-            if task !="mmt":
-              with torch.no_grad():
-                  logits = model(**batch).logits
-                  log_probs = torch.nn.functional.log_softmax(logits, dim=-1)
-                  generated_tokens = outputs[:, len(batch['input_ids'][0]):]
-                  log_likelihood = log_probs.gather(2, generated_tokens.unsqueeze(-1)).squeeze(-1).sum().item()
+            if task != "mmt":
+                with torch.no_grad():
+                    logits = model(**batch).logits  # Shape: [batch_size, seq_length, vocab_size]
+                    log_probs = torch.nn.functional.log_softmax(logits, dim=-1)  # Shape: [batch_size, seq_length, vocab_size]
+
+                    # compute the log-likelihood of the target tokens
+                    t_labels = torch.tensor([0, 1, 2]).unsqueeze(0).unsqueeze(0).expand(batch['input_ids'].size(0), batch['input_ids'].size(1), -1).to(model.device)
+
+                    # Gathering log-likelihoods for the labels
+                    log_likelihoods_per_class = log_probs.gather(2, t_labels)  # Shape: [batch_size, seq_length, 3]
+                    
+                    #sum or average over the sequence to get a final score
+                    log_likelihoods_per_class = log_likelihoods_per_class.mean(dim=1)  # Shape: [batch_size, 3]
             else:
-              log_likelihood = []
-            writer.writerow([identity, instruction, input_text, output_text, log_likelihood, labels, task, langs])  # Save ground truth
+                log_likelihoods_per_class = []
+            writer.writerow([identity, instruction, input_text, output_text, log_likelihoods_per_class, labels, task, langs])  # Save ground truth
