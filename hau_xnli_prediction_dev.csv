@@ -1,5 +1,5 @@
 ID,Instruction,Input Text,Response,Log-Likelihood,Targets,Task,Langs
-1,"Is the following question True, False or Neither?",Muna da haɗi mafi kyau a wajajen nan.,✍👏👏👇,-190.875,2,xnli,hau
-2,"Is the following question True, False or Neither?",Babu wani tsarin dokokin da zai yanke yadda zaayi cikakken sanwic ba tare da mutum ba.,Ɗaya daga cikin waɗannan sharuɗɗan da aka,-177.625,1,xnli,hau
-3,"Is the following question True, False or Neither?",Baban sa yana da kadarori da yawa,"Ɗan Rago na biyu, Ɗa, da kuma",-166.5,0,xnli,hau
-4,"Is the following question True, False or Neither?",Naji ance babu dadi.,"Ɗauki sunana, ďinna, ďaya",-161.25,1,xnli,hau
+1_afrixnli_hau,"Is the following question True, False or Neither?","Ta faɗa kaunar mai martaba Julian Wade, duk da halinsa na ko in kula.","Ɗaɗawa. Below is an instruction thatunde, pa","tensor([[-13.1641,  -7.8711, -13.1719]], device='cuda:0', dtype=torch.float16)",2,xnli,hau
+2_afrixnli_hau,"Is the following question True, False or Neither?",Haka daidai yadda na tamke shi.,Ɗana'antuwa koyas da aka yi amfani,"tensor([[-12.8672,  -7.4688, -12.8750]], device='cuda:0', dtype=torch.float16)",0,xnli,hau
+3_afrixnli_hau,"Is the following question True, False or Neither?",Duk wani bayani daga kowane ƙarni na da inganci daga kuma kowace duniyar.,Ɗaukaka da kuma Ɗaukar hoto. Below,"tensor([[-13.2344,  -7.9023, -13.2422]], device='cuda:0', dtype=torch.float16)",2,xnli,hau
+4_afrixnli_hau,"Is the following question True, False or Neither?",Kogin maciji yana da kunkuru.,❤️❤️�������,"tensor([[-12.9062,  -7.8008, -12.9062]], device='cuda:0', dtype=torch.float16)",1,xnli,hau
