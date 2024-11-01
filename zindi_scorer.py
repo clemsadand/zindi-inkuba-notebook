@@ -20,7 +20,7 @@ def process_likelihood(likelihood_str: str) -> List[float]:
 def evaluate_zindi(csv_file_path):
     log_likelihoods = []
     ground_truths = []
-    PARAM_SIZE = 421939200.0
+    PARAM_SIZE = 421939200.0 #the size of Inkuba
 
     with open(csv_file_path, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
@@ -43,21 +43,15 @@ def evaluate_zindi(csv_file_path):
             label_to_id = {label: i for i, label in enumerate(labels)}
             
             if 'xnli' in row['ID']:
-              #get predicted label number
               y_pred_xnli.append(np.argmax(likelihoods))
-              #get ground truth number
-              y_true_xnli.append(label_to_id[row['Targets']])
-              #get f1score
+              y_true_xnli.append(label_to_id[row['targets']])
             if 'sent' in row['ID']:
-              #get predicted label number
               y_pred_sent.append(np.argmax(likelihoods))
-              #get ground truth number
-              y_true_sent.append(label_to_id[row['Targets']])
-              #get f1score
+              y_true_sent.append(label_to_id[row['targets']])
        
-          elif 'mmt' in row['ID']:
+          elif 'mt' in row['ID']:
             chrf_pred=row['Response']
-            chrf_true=row['Targets']
+            chrf_true=row['targets']
             chrfs = chrF(reference=chrf_true, hypothesis=chrf_pred)
             scores.append((chrfs))
           elif 'size' in row['ID']:
@@ -73,7 +67,11 @@ def evaluate_zindi(csv_file_path):
         print("F1score Xnli: ", f1_xnli)
         
         average_score = np.sum(scores)/len(scores)
-        zindi_score = (average_score + (1-(size/PARAM_SIZE))*average_score)/2 #wat
+        # Zindi score takes the average of all perfromances (out of 1) 
+        # It scales this value by the model size making the total possible score out of 2
+        # ie if the model is 100x smaller than Inkuba then they can double their score
+        # We then divide by 2 to get the score to be out of 1 again
+        zindi_score = (average_score + (1-(size/PARAM_SIZE))*average_score)/2 
     return zindi_score
     
 # From scratch implementation of chrf
