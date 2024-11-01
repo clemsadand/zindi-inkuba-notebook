@@ -8,16 +8,15 @@ This notebook is one that can be shared with participants.
 - it shows how their dev set can be scored (so they can chec their progress)
 - it has the code to create the two column subission file
 
-**Lelapa AI Zindi Score - Zindi team.ipynb**
+**Lelapa AI Zindi Score - Zindi team.ipynb** [Lelapa AI Zindi Score - Zindi team.ipynb](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/Lelapa_AI_Zindi_Score_Zindi_team.ipynb)
 
 This notebook if for Zindi Admin. It includes a code snippet at the end to combine submission file with groundtruth to compute Zindi score, It does also have the rest of the partcipant code for generating submission files, note that these are not necessary to do the scoring
 - this notebook shows how to create the target files for the public scoreboard and the private scoreboard (though these files have been included in the repo so those can be used instead)
 - this notebook also shows how to combine the target with the submission file to create files to score for the public and private scoreoard (though we imagine Zindi has their own process for this so this is just an exmaple)
 - it then shows how the two cilumn submission files when paired with the target can be scored
 - the Zindi scorer file has a few imports (List as a data type import which is not necessary), it also has the COunter import and the CSV import. We have otherwise coded the Chrf and F1score from scratch (hope this helps for future Zindi challenges too)
-[Lelapa AI Zindi Score - Zindi team.ipynb](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/Lelapa_AI_Zindi_Score_Zindi_team.ipynb) 
 
-**Helper Functions that both Zindi team and Participants need access to**
+**Helper Functions that Participants need access to**
 
 [eval.py](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/eval.py) -> this file contains all the evaluation functions
 [model_function.py](https://github.com/Lelapa-AI/zindi-inkuba-notebook/blob/main/model_function.py) -> this file contains functions for model inference necessary for the submission format
