@@ -31,10 +31,10 @@ This notebook if for Zindi Admin. It includes a code snippet at the end to combi
 This files are made from running the participant notebook on InkubaLM
 
 ### All the other csv files
-These are the interim files used in the submission file creation process so you can see how evaluations might work for eacj langauge and task. These files would be generated on the participant side when they are evalauting the model (we have included them here just for funsies so you do not have to run everything to test)
+These are the interim files used in the submission file creation process so you can see how evaluations might work for each langauge and task. These files would be generated on the participant side when they are evalauting the model (we have included them here just for funsies so you do not have to run everything to test)
 
-## Zindi Score/Metric
-The main point of the challenge is to make the model smaller and there are bonus points for making it smarter. The final score combines the size of the model and the model performance. 
+# Zindi Score/Metric
+The main point of the challenge is to make the model smaller and or smarter. The final score combines the size of the model and the model performance. The zindi score takes the avergae performance of the model and you have the chance to double this score by by making the model 100% smaller than Inkuba. 
 
 ### Size comparison
 We utilise the number of weights of the model to compare the size. At the end of the day it is the number of weights that impact inference time of the model and the fewer the number of weights, the more accessible the model is in low reosurce environments. 
