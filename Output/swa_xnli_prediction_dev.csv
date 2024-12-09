@@ -1,5 +1,4 @@
 ID,Instruction,Input Text,Response,Log-Likelihood,Targets,Task,Langs
-1_afrixnli_swa,"Is the following question True, False or Neither?","Ana upendo wa kupumbazika kwa bwana Julian Wade, licha ya umbile lake la kutetemeka.",‪#‎Mariah Binti Maryam 1914 ,"tensor([[-12.6484,  -7.9453, -12.6484]], device='cuda:0', dtype=torch.float16)",2,xnli,swa
-2_afrixnli_swa,"Is the following question True, False or Neither?",Hiyo ni sawa jinsi nilivyofungwa.,❤️ ����������,"tensor([[-12.7344,  -7.7227, -12.7344]], device='cuda:0', dtype=torch.float16)",0,xnli,swa
-3_afrixnli_swa,"Is the following question True, False or Neither?",Data zozote ya wakati wowote ni ya maana kwa Dunia yoyote.,‪#‎Kunenko. Below is an instruction,"tensor([[-12.6562,  -7.6289, -12.6484]], device='cuda:0', dtype=torch.float16)",2,xnli,swa
-4_afrixnli_swa,"Is the following question True, False or Neither?",Mto wa nyoka una kasa wengi wenye hasira,"❤️. Below is an instruction that describes a task,","tensor([[-12.6953,  -7.7227, -12.6953]], device='cuda:0', dtype=torch.float16)",1,xnli,swa
+1_dev_afrixnli_swa,"Is the following question True, False or Neither?",Alimwita mama yake mara tu basi ya shule ilipomshukisha.,👍🏽 #MuhammadZaria #S,"tensor([[-12.7422,  -7.5625, -12.7422]], device='cuda:0', dtype=torch.float16)",1,xnli,swa
+2_dev_afrixnli_swa,"Is the following question True, False or Neither?",Hakusema chochote.,‪#‎Ayshnuratayan-s,"tensor([[-12.7266,  -7.6445, -12.7266]], device='cuda:0', dtype=torch.float16)",2,xnli,swa
+3_dev_afrixnli_swa,"Is the following question True, False or Neither?",Alimwambia mama yake alikuwa amefika nyumbani.,👍🏾 ������,"tensor([[-12.6797,  -7.8125, -12.6875]], device='cuda:0', dtype=torch.float16)",0,xnli,swa

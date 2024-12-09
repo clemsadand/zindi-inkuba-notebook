@@ -1,5 +1,4 @@
 ID,Instruction,Input Text,Response,Log-Likelihood,Targets,Task,Langs
-1_afrixnli_hau,"Is the following question True, False or Neither?","Ta faɗa kaunar mai martaba Julian Wade, duk da halinsa na ko in kula.","Ɗaɗawa. Below is an instruction thatunde, pa","tensor([[-13.1641,  -7.8711, -13.1719]], device='cuda:0', dtype=torch.float16)",2,xnli,hau
-2_afrixnli_hau,"Is the following question True, False or Neither?",Haka daidai yadda na tamke shi.,Ɗana'antuwa koyas da aka yi amfani,"tensor([[-12.8672,  -7.4688, -12.8750]], device='cuda:0', dtype=torch.float16)",0,xnli,hau
-3_afrixnli_hau,"Is the following question True, False or Neither?",Duk wani bayani daga kowane ƙarni na da inganci daga kuma kowace duniyar.,Ɗaukaka da kuma Ɗaukar hoto. Below,"tensor([[-13.2344,  -7.9023, -13.2422]], device='cuda:0', dtype=torch.float16)",2,xnli,hau
-4_afrixnli_hau,"Is the following question True, False or Neither?",Kogin maciji yana da kunkuru.,❤️❤️�������,"tensor([[-12.9062,  -7.8008, -12.9062]], device='cuda:0', dtype=torch.float16)",1,xnli,hau
+1_dev_afrixnli_hau,"Is the following question True, False or Neither?","Ya kira babar sa, sanda motar makarantar ta sauke shi.","Ɗan Rago na Ibrahim, wanda ya ce ya yi","tensor([[-13.0625,  -7.7188, -13.0703]], device='cuda:0', dtype=torch.float16)",1,xnli,hau
+2_dev_afrixnli_hau,"Is the following question True, False or Neither?",Bai ce ko kalma ɗaya ba.,✍︎ẽwa ����,"tensor([[-12.8672,  -7.7539, -12.8750]], device='cuda:0', dtype=torch.float16)",2,xnli,hau
+3_dev_afrixnli_hau,"Is the following question True, False or Neither?",Ya fadawa babar sa yaji gida.,ḇedna ko ḇedna ko �,"tensor([[-12.8438,  -7.6719, -12.8516]], device='cuda:0', dtype=torch.float16)",0,xnli,hau
