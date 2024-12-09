@@ -33,18 +33,14 @@ def process_likelihood(likelihood_str: str) -> List[float]:
 
 
 def evaluate_zindi(csv_file_path):
-    log_likelihoods = []
-    ground_truths = []
-    PARAM_SIZE = 421939200.0  # the size of Inkuba
-
     with open(csv_file_path, newline="", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
-        count = 0
         scores = []
         y_pred_sent = []
         y_true_sent = []
         y_pred_xnli = []
         y_true_xnli = []
+
         for row in reader:
             if "sent" in row["ID"] or "xnli" in row["ID"]:
                 if "sent" in row["ID"] and "swahili" in row["ID"]:
@@ -54,39 +50,32 @@ def evaluate_zindi(csv_file_path):
                 if "xnli" in row["ID"]:
                     labels = ["0", "1", "2"]
 
-                likelihoods = process_likelihood(row["Response"])
+                # Use the output of process_likelihood directly
+                predicted_label = process_likelihood(row["Response"])
                 label_to_id = {label: i for i, label in enumerate(labels)}
 
                 if "xnli" in row["ID"]:
-                    y_pred_xnli.append(np.argmax(likelihoods))
-                    y_true_xnli.append(label_to_id[row["targets"]])
+                    y_pred_xnli.append(predicted_label)
+                    y_true_xnli.append(label_to_id[row["Targets"]])
                 if "sent" in row["ID"]:
-                    y_pred_sent.append(np.argmax(likelihoods))
-                    y_true_sent.append(label_to_id[row["targets"]])
+                    y_pred_sent.append(predicted_label)
+                    y_true_sent.append(label_to_id[row["Targets"]])
 
             elif "mt" in row["ID"]:
                 chrf_pred = row["Response"]
-                chrf_true = row["targets"]
+                chrf_true = row["Targets"]
                 chrfs = chrF(reference=chrf_true, hypothesis=chrf_pred)
-                scores.append((chrfs))
-            elif "size" in row["ID"]:
-                size = int(row["Response"])
-        print("Chrf MT: ", np.mean(scores))
-        # f1 score for sentiment
+                scores.append(chrfs)
+
+        # F1 score for sentiment
         f1_sent = calculate_f1(np.array(y_true_sent), np.array(y_pred_sent), 3)
         scores.append(f1_sent)
-        print("F1score Sentiment: ", f1_sent)
-        # f1 score for xnli
+        # F1 score for xnli
         f1_xnli = calculate_f1(np.array(y_true_xnli), np.array(y_pred_xnli), 3)
         scores.append(f1_xnli)
-        print("F1score Xnli: ", f1_xnli)
+        # Zindi score: Average of all performances
+        zindi_score = np.mean(scores)
 
-        average_score = np.sum(scores) / len(scores)
-        # Zindi score takes the average of all perfromances (out of 1)
-        # It scales this value by the model size making the total possible score out of 2
-        # ie if the model is 100x smaller than Inkuba then they can double their score
-        # We then divide by 2 to get the score to be out of 1 again
-        zindi_score = (average_score + (1 - (size / PARAM_SIZE)) * average_score) / 2
     return zindi_score
 
 
