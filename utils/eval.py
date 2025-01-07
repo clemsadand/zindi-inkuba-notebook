@@ -1,36 +1,8 @@
 import csv
 from collections import Counter
-from statistics import mean
-from typing import List, Tuple
 
-import evaluate
 import numpy as np
-import pandas as pd
-from sklearn.metrics import accuracy_score, f1_score
 
-
-def calculate_chrf(df):
-    """
-    This function claculates CHRF when given a prediction and ground truth for translation
-
-    Inputs:
-    df: <pandas dataframe> with prediction and ground truth for machine translation
-
-    Outputs:
-    score: <dict> chrf results
-    """
-    chrf_metric = evaluate.load("chrf")
-    references = format_references(df["Targets"].to_list())
-    predictions = df["Response"].to_list()
-    score = chrf_metric.compute(predictions=predictions, references=references)
-    return score
-
-
-def format_references(list_of_references: List) -> List:
-    """
-    This function formats the references in a List of List, as expected by the CHRF metric (and BLEU as well)
-    """
-    return [[reference] for reference in list_of_references]
 
 def evaluate_zindi(csv_file_path):
     with open(csv_file_path, newline="", encoding="utf-8") as csvfile:
@@ -75,13 +47,11 @@ def evaluate_zindi(csv_file_path):
         scores.append(f1_xnli)
         # Zindi score: Average of all performances
         zindi_score = np.mean(scores)
-    
-    # round score ?
-    zindi_score = round(
-        zindi_score, 4
-    )
+
+    # Round to 4 decimal places and multiply by 100
+    zindi_score = round(zindi_score, 4)
     zindi_score *= 100
-    
+
     return zindi_score
 
 
