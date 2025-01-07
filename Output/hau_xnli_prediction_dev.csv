@@ -1,4 +1,4 @@
 ID,Instruction,Input Text,Response,Log-Likelihood,Targets,Task,Langs
-1_dev_afrixnli_hau,"Is the following question True, False or Neither?","Ya kira babar sa, sanda motar makarantar ta sauke shi.","Ɗan Rago na Ibrahim, wanda ya ce ya yi","tensor([[-13.0625,  -7.7188, -13.0703]], device='cuda:0', dtype=torch.float16)",1,xnli,hau
-2_dev_afrixnli_hau,"Is the following question True, False or Neither?",Bai ce ko kalma ɗaya ba.,✍︎ẽwa ����,"tensor([[-12.8672,  -7.7539, -12.8750]], device='cuda:0', dtype=torch.float16)",2,xnli,hau
-3_dev_afrixnli_hau,"Is the following question True, False or Neither?",Ya fadawa babar sa yaji gida.,ḇedna ko ḇedna ko �,"tensor([[-12.8438,  -7.6719, -12.8516]], device='cuda:0', dtype=torch.float16)",0,xnli,hau
+1_dev_afrixnli_hau,"Is the following question True, False or Neither?","Ya kira babar sa, sanda motar makarantar ta sauke shi.",❤️❤️ Below is an instruction that describes,"tensor([[-13.0625,  -7.7188, -13.0703]], device='cuda:0', dtype=torch.float16)",1,xnli,hau
+2_dev_afrixnli_hau,"Is the following question True, False or Neither?",Bai ce ko kalma ɗaya ba.,"😀 Below is an instruction thatunde a task, pa","tensor([[-12.8672,  -7.7539, -12.8672]], device='cuda:0', dtype=torch.float16)",2,xnli,hau
+3_dev_afrixnli_hau,"Is the following question True, False or Neither?",Ya fadawa babar sa yaji gida.,"Ɗan mutum ne da aka haife shi, amma ya yi masa aiki","tensor([[-12.8438,  -7.6680, -12.8516]], device='cuda:0', dtype=torch.float16)",0,xnli,hau
