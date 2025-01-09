@@ -1,4 +1,0 @@
-ID,Instruction,Input Text,Response,Log-Likelihood,Targets,Task,Langs
-ID_4c5d953b_dev_afrixnli_swa,"Is the following question True, False or Neither?","Alas, hakuweza kuelewa wazi kutokana na kizuizi cha lugha.",‪#‎Makkayama ḇedai,"tensor([[-12.6719,  -7.8984, -12.6719]], device='cuda:0', dtype=torch.float16)",1,xnli,swa
-ID_a38aa9d8_dev_afrixnli_swa,"Is the following question True, False or Neither?",Kanuni haziwezi kuamua jinsi ya kutengeneza mkate kamili bila ya uamuzi wa binadamu.,"☀️. Below is an instruction that describes a task,","tensor([[-12.6406,  -7.5469, -12.6328]], device='cuda:0', dtype=torch.float16)",1,xnli,swa
-ID_643fa526_dev_afrixnli_swa,"Is the following question True, False or Neither?",Kusafiri ni sehemu yangu ninayoipenda.,☀️�����������,"tensor([[-12.6719,  -7.7031, -12.6797]], device='cuda:0', dtype=torch.float16)",1,xnli,swa

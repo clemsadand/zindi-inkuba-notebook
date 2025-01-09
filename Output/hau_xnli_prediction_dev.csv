@@ -1,4 +1,0 @@
-ID,Instruction,Input Text,Response,Log-Likelihood,Targets,Task,Langs
-ID_648d37ff_dev_afrixnli_hau,"Is the following question True, False or Neither?","Bayan nace e, ya ƙare.",Ɗana'antuwa. Below is an instruction that describes a,"tensor([[-12.8203,  -7.6484, -12.8203]], device='cuda:0', dtype=torch.float16)",0,xnli,hau
-ID_f96a39cb_dev_afrixnli_hau,"Is the following question True, False or Neither?",Ba zan damu ba idan ɗaukan nauyin kuɗin da ake gudanar da ma'aikatar ake yi. ,"ẽwa, ẽwa, ẽ","tensor([[-13.2891,  -8.1250, -13.2969]], device='cuda:0', dtype=torch.float16)",0,xnli,hau
-ID_99a61e3d_dev_afrixnli_hau,"Is the following question True, False or Neither?",Nace a'a amma yaci gaba da ja-in-ja.,‪#Bible: https://www.youtube.com/,"tensor([[-13.0469,  -7.6055, -13.0547]], device='cuda:0', dtype=torch.float16)",2,xnli,hau
