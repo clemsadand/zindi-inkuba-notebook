@@ -1,19 +1,19 @@
 ID,Response,Targets
-1_sentiment_ dev_hausa-sentiment-hausa,1,Tsaka-tsaki
-2_sentiment_ dev_hausa-sentiment-hausa,1,Korau
-3_sentiment_ dev_hausa-sentiment-hausa,1,Kyakkyawa
-1_sentiment_ dev_swahili-sentiment-swahili,1,Wastani
-2_sentiment_ dev_swahili-sentiment-swahili,1,Wastani
-3_sentiment_ dev_swahili-sentiment-swahili,1,Wastani
-1_dev_afrixnli_hau-xnli-hau,1,1
-2_dev_afrixnli_hau-xnli-hau,1,2
-3_dev_afrixnli_hau-xnli-hau,1,0
-1_dev_afrixnli_swa-xnli-swa,1,1
-2_dev_afrixnli_swa-xnli-swa,1,2
-3_dev_afrixnli_swa-xnli-swa,1,0
-1_dev_mt_eng-hau-mmt-eng-hau,"ẕḇa, �������������������������������������������������������������������������������������������","ki gaida mutan gidan!"""
-2_dev_mt_eng-hau-mmt-eng-hau,"ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa, ẽwa","""hey mutane, ina so ku san game da muhimmin abu a rayuwata."
-3_dev_mt_eng-hau-mmt-eng-hau,"gps. Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.inden Endilo address Sole: could you convert this english text to hausa?ather katiweieail-0 language: could you convert this english text to hausa?ure the entire segment exists solely to cater to the needs of women lika-: gps. Below is an instruction that describes a task",rabin haɗin duniya yana nufin kawai don saduwa da bukatun mata.
-1_dev_mt_eng-swa-mmt-eng-swa,����������������������������������������������������������������������������������������������������,hilo ni somo tosha kwa wale wenye tabia za namna hiyo ya kujudge mtu pasipo kumtambua huyu ni nani na huyu ni nani!
-2_dev_mt_eng-swa-mmt-eng-swa,"�hanyoyin da aka rubuta a cikin harshen turanci, shi ne ya zama babban kalubale ga harshen hausa na hausa da kuma harsuna. Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.indenptay tuned in the link belowlelontay tuned in the link belowses, shi ne ya zama babban kalubale ga harshen hausa na hausa da",jihudumie mwenyewe kwenye link hapo chini
-3_dev_mt_eng-swa-mmt-eng-swa,"ẽn't do not want to be in a way or not, but he does not want to be in a way or not. <> ""kuma ka ce: """"da lalle ne muna da wata cuta, sai dai idan ya kasance mushe ko kuwa farko a cikin ƙasa, kuma ko kuwa farkon yini, to, za mu zama masu imani."""" = [ 10:43 ] ""ya ka ce, """"idan da allah ya so, da ba wanda zai","samahani kukata tamaa, haitatokea tu."
+ID_6aba33a1_sentiment_ dev_hausa,1,Kyakkyawa
+ID_ce64d307_sentiment_ dev_hausa,1,Tsaka-tsaki
+ID_2efc9515_sentiment_ dev_hausa,1,Tsaka-tsaki
+ID_dfb02831_sentiment_ dev_swahili,1,Wastani
+ID_ad1d9888_sentiment_ dev_swahili,1,Wastani
+ID_34eed91d_sentiment_ dev_swahili,1,Wastani
+ID_648d37ff_dev_afrixnli_hau,1,0
+ID_f96a39cb_dev_afrixnli_hau,1,0
+ID_99a61e3d_dev_afrixnli_hau,1,2
+ID_4c5d953b_dev_afrixnli_swa,1,1
+ID_a38aa9d8_dev_afrixnli_swa,1,1
+ID_643fa526_dev_afrixnli_swa,1,1
+ID_5e3d2251_dev_mt_eng-hau,"🔥 Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.inden Endpri › completes the request.akingoth is possible because the on-demand application is developed with such easy designs and functions.ses.°Smand application is developed with such easy designs and functions.atherarianmfortiliu, the on-demand application is developed with such",wannan yana yiwuwa ne saboda sauƙi na gyare-gyare a cikin kwakwalwar da ake so da kuma yin haka da kyau da kuma dacewa.
+ID_fd263d98_dev_mt_eng-hau,"👍🏽@gmail.com Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.indenants at an format this english text to hausa?aking.anelanelFF Damely completes the request.ses soest video kuma orleans, a city with a long tradition of witchcraft, voodoo, and other assorted dark arts.°","ɗaya daga cikin tafiya ya kai su new orleans, wani birni da dogon lokaci na maita, voodoo , da sauran kayan zane mai ban sha'awa ."
+ID_96a1f4d4_dev_mt_eng-hau,"ḇejiro ḇye kofur. ḇefasna, ḇedekkedi, ḇedekkedi. ḇedekkedi, ḇedekkedi, ḇedekkedi, ḇedekkedi, ḇedekkedi, ḇedekkedi. ḇed",akwai kuma tarihin yesu kristi.
+ID_4185b417_dev_mt_eng-swa,"�the nmohd, �it is not the first one of the two who is the last one of the two who is the last one of the two who is the last one of the two who is the last one of the two who is the last one of the two who is the last one of the two who is the last one of the two who is the last one of the two who is the last one of the two who is the last one of the two who is","kifo cha khan kimetokea wiki moja tu baada ya kugunduliwa na ugonjwa huo, na kutangazwa siku ile, ile rais wa sierra leone ernest bai koroma alikuwa anatarajiwa kutembelea kituo cha matibabu ya wagonjwa wa ebola cha mji wa kaskazini mashariki wa kailahun."
+ID_a694c64e_dev_mt_eng-swa,💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯,msaada shujaa ili kuondokana na matatizo yote na kurudi nyumbani ulimwengu wake. .
+ID_13e437e9_dev_mt_eng-swa,"ẽwa (me ya sa ake kiran wannan mutumin da aka haife shi) ẽwa (nigeria). Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.inden Endvu cyble strangers #6lelo 15akingohsiubu | #6attfun.anela mysterious strangers #6Yoonuso ẽwa (",mystery image #6

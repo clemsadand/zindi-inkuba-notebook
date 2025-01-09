@@ -5,33 +5,6 @@ from typing import List  # this could be removed from the code if necessary
 import numpy as np
 
 
-def process_likelihood(likelihood_str: str) -> List[float]:
-    # clean the string to remove unwanted characters
-    clean_str = (
-        likelihood_str.replace("tensor(", "").replace(")", "").strip()
-    )  # remove 'tensor(' and ')'
-    clean_str = (
-        clean_str.replace("[[", "").replace("]]", "").strip()
-    )  # remove extra brackets
-    clean_str = (
-        clean_str.replace(" device='cuda:0'", "")
-        .replace(" dtype=torch.float16", "")
-        .strip()
-    )  # remove device and dtype info
-    clean_str = clean_str.replace(
-        "tensor", ""
-    ).strip()  # remove any instances of 'tensor'
-
-    # remove any empty strings caused by extra commas
-    clean_str = clean_str.replace(",,", ",")  # remove duplicate commas if they exist
-
-    # Convert to a list of floats
-    likelihood = [
-        float(x) for x in clean_str.split(",") if x.strip()
-    ]  # ensure non-empty strings are converted
-    return likelihood
-
-
 def evaluate_zindi(csv_file_path):
     with open(csv_file_path, newline="", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
@@ -51,7 +24,7 @@ def evaluate_zindi(csv_file_path):
                     labels = ["0", "1", "2"]
 
                 # Use the output of process_likelihood directly
-                predicted_label = process_likelihood(row["Response"])
+                predicted_label = row["Response"]
                 label_to_id = {label: i for i, label in enumerate(labels)}
 
                 if "xnli" in row["ID"]:
@@ -75,7 +48,6 @@ def evaluate_zindi(csv_file_path):
         scores.append(f1_xnli)
         # Zindi score: Average of all performances
         zindi_score = np.mean(scores)
-
     return zindi_score
 
 
