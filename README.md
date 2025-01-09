@@ -1,4 +1,4 @@
-# This repo contains all the necessary files for the Zindi Competition
+
 
 ## **Lelapa AI Zindi Notebook - Participants.ipynb** 
 This notebook is one that can be shared with participants.  
