@@ -1,3 +1,5 @@
+#%%writefile utils/eval.py
+#@title Overwrite eval.py
 import csv
 from collections import Counter
 
@@ -20,7 +22,7 @@ def evaluate_zindi(csv_file_path):
                 if "sent" in row["ID"] and "hausa" in row["ID"]:
                     labels = ["Kyakkyawa", "Tsaka-tsaki", "Korau"]
                 if "xnli" in row["ID"]:
-                    labels = ["0", "1", "2"]
+                    labels = ["True", "Neither", "False"]#["0", "1", "2"]#I just change the Label for XNLI task
 
                 # Use the output of process_likelihood directly
                 predicted_label = row["Response"]
