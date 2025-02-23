@@ -1,3 +1,5 @@
+#%%writefile utils/model_function.py
+#@title Overwrite model_function.py
 import csv
 import time
 
@@ -92,7 +94,12 @@ def main(
                 task = "xnli"
             identity = item["ID"]
 
-            user_prompt = BASE_PROMPT.format(f"{instruction}\n{input_text}")
+            user_prompt = (
+            	#BASE_PROMPT.format(f"{instruction}\n{input_text}")
+                BASE_PROMPT.format(instruction=instruction, inputs=input_text)
+            	if task != "xnli" else
+            	BASE_PROMPT.format(instruction=instruction, premise=item["premise"], hypothesis=input_text)
+            )
             batch = tokenizer(user_prompt, return_tensors="pt")
             batch = {k: v.to(model.device) for k, v in batch.items()}
 
