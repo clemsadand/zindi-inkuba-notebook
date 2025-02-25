@@ -100,7 +100,8 @@ def main(
             	if task != "xnli" else
             	BASE_PROMPT.format(instruction=instruction, premise=item["premise"], hypothesis=input_text)
             )
-            batch = tokenizer(user_prompt, return_tensors="pt")
+            max_ctx_length = model.config.n_positions
+            batch = tokenizer(user_prompt, return_tensors="pt", padding=True, max_length=max_ctx_length, truncation=True)
             batch = {k: v.to(model.device) for k, v in batch.items()}
 
             start = time.perf_counter()
