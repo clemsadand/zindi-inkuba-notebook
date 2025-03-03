@@ -1,6 +1,7 @@
 import os
 from typing import List
 import pandas as pd
+import numpy as np
 
 def process_likelihood(likelihood_str: str) -> List[float]:
     """
